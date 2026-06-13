@@ -1,0 +1,622 @@
+[
+  {
+    "id": "evidence-event-terraristika-hamm-0",
+    "title": "Terraristika Hamm public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-terraristika-hamm/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-terraristika-hamm",
+    "relatedTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-terraristika-hamm-1",
+    "title": "Terraristika Hamm public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-terraristika-hamm/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-terraristika-hamm",
+    "relatedTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-terraristika-hamm-2",
+    "title": "Terraristika Hamm public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-terraristika-hamm/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-terraristika-hamm",
+    "relatedTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-terraria-houten-0",
+    "title": "Terraria Houten public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-terraria-houten/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-terraria-houten",
+    "relatedTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-terraria-houten-1",
+    "title": "Terraria Houten public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-terraria-houten/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-terraria-houten",
+    "relatedTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-terraria-houten-2",
+    "title": "Terraria Houten public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-terraria-houten/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-terraria-houten",
+    "relatedTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-prague-reptile-fair-0",
+    "title": "Prague reptile/exotics fair public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-prague-reptile-fair/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-prague-reptile-fair",
+    "relatedTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-prague-reptile-fair-1",
+    "title": "Prague reptile/exotics fair public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-prague-reptile-fair/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-prague-reptile-fair",
+    "relatedTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-prague-reptile-fair-2",
+    "title": "Prague reptile/exotics fair public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-prague-reptile-fair/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-prague-reptile-fair",
+    "relatedTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-verona-reptiles-0",
+    "title": "Verona Reptiles public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-verona-reptiles/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-verona-reptiles",
+    "relatedTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-verona-reptiles-1",
+    "title": "Verona Reptiles public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-verona-reptiles/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-verona-reptiles",
+    "relatedTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-verona-reptiles-2",
+    "title": "Verona Reptiles public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-verona-reptiles/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-verona-reptiles",
+    "relatedTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-narbc-tinley-0",
+    "title": "NARBC Tinley Park public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-narbc-tinley/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-narbc-tinley",
+    "relatedTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-narbc-tinley-1",
+    "title": "NARBC Tinley Park public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-narbc-tinley/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-narbc-tinley",
+    "relatedTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-narbc-tinley-2",
+    "title": "NARBC Tinley Park public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-narbc-tinley/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-narbc-tinley",
+    "relatedTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-japan-reptiles-show-0",
+    "title": "Japan Reptiles Show public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-japan-reptiles-show/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-japan-reptiles-show",
+    "relatedTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-japan-reptiles-show-1",
+    "title": "Japan Reptiles Show public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-japan-reptiles-show/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-japan-reptiles-show",
+    "relatedTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-japan-reptiles-show-2",
+    "title": "Japan Reptiles Show public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-japan-reptiles-show/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-japan-reptiles-show",
+    "relatedTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-canadian-rbe-0",
+    "title": "Canadian Reptile Breeders Expo public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-canadian-rbe/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-canadian-rbe",
+    "relatedTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-canadian-rbe-1",
+    "title": "Canadian Reptile Breeders Expo public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-canadian-rbe/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-canadian-rbe",
+    "relatedTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-canadian-rbe-2",
+    "title": "Canadian Reptile Breeders Expo public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-canadian-rbe/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-canadian-rbe",
+    "relatedTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-repticon-orlando-0",
+    "title": "Repticon Orlando public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-repticon-orlando/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-repticon-orlando",
+    "relatedTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-repticon-orlando-1",
+    "title": "Repticon Orlando public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-repticon-orlando/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-repticon-orlando",
+    "relatedTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-repticon-orlando-2",
+    "title": "Repticon Orlando public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-repticon-orlando/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-repticon-orlando",
+    "relatedTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "medium",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-latam-placeholder-0",
+    "title": "Latin America reptile/exotics expo placeholder public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-latam-placeholder/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-latam-placeholder",
+    "relatedTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "low",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-latam-placeholder-1",
+    "title": "Latin America reptile/exotics expo placeholder public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-latam-placeholder/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-latam-placeholder",
+    "relatedTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "low",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-latam-placeholder-2",
+    "title": "Latin America reptile/exotics expo placeholder public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-latam-placeholder/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-latam-placeholder",
+    "relatedTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "low",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-sea-placeholder-0",
+    "title": "Southeast Asia exotic pet/reptile market placeholder public-safe evidence example 1",
+    "evidenceType": "official event page",
+    "url": "https://example.org/public-evidence/event-sea-placeholder/0",
+    "dateObserved": "2026-06-01",
+    "datePosted": null,
+    "relatedEventId": "event-sea-placeholder",
+    "relatedTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "event date confirmation"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "low",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-sea-placeholder-1",
+    "title": "Southeast Asia exotic pet/reptile market placeholder public-safe evidence example 2",
+    "evidenceType": "journalist report",
+    "url": "https://example.org/public-evidence/event-sea-placeholder/1",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-sea-placeholder",
+    "relatedTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "low",
+    "publicSafeStatus": "public-safe demo"
+  },
+  {
+    "id": "evidence-event-sea-placeholder-2",
+    "title": "Southeast Asia exotic pet/reptile market placeholder public-safe evidence example 3",
+    "evidenceType": "attendee report",
+    "url": "https://example.org/public-evidence/event-sea-placeholder/2",
+    "dateObserved": "2026-06-01",
+    "datePosted": "2026-05-15",
+    "relatedEventId": "event-sea-placeholder",
+    "relatedTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "summary": "Demo evidence summary for lawful OSINT organization; no private scraping or sensitive personal data.",
+    "extractedRedFlags": [
+      "source claim needs verification",
+      "proxy taxon mention"
+    ],
+    "analystNotes": "Public-safe placeholder. Replace only with lawful public/open-source references.",
+    "confidence": "low",
+    "publicSafeStatus": "public-safe demo"
+  }
+]

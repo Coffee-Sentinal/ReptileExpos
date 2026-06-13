@@ -1,0 +1,374 @@
+[
+  {
+    "id": "taxon-lanthanotus-borneensis",
+    "scientificName": "Lanthanotus borneensis",
+    "commonName": "Borneo earless monitor",
+    "taxonGroup": "lizard",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "Indonesia",
+      "Malaysia"
+    ],
+    "possibleOriginCountries": [
+      "Indonesia",
+      "Malaysia"
+    ],
+    "transitCountries": [
+      "Singapore",
+      "Thailand",
+      "United Arab Emirates"
+    ],
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium",
+    "identificationNotes": "Distinctive earless monitor; verify declared source and CITES/import documentation."
+  },
+  {
+    "id": "taxon-naultinus-spp",
+    "scientificName": "Naultinus spp.",
+    "commonName": "New Zealand green geckos",
+    "taxonGroup": "gecko",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "New Zealand"
+    ],
+    "possibleOriginCountries": [
+      "New Zealand"
+    ],
+    "transitCountries": [
+      "Australia",
+      "Singapore"
+    ],
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "seizure news",
+    "confidence": "medium",
+    "identificationNotes": "Bright green arboreal geckos; verify lawful origin and export permissions."
+  },
+  {
+    "id": "taxon-brachylophus-spp",
+    "scientificName": "Brachylophus spp.",
+    "commonName": "Fiji iguanas",
+    "taxonGroup": "lizard",
+    "citesAppendix": "I",
+    "euAnnex": "A",
+    "nativeRangeCountries": [
+      "Fiji"
+    ],
+    "possibleOriginCountries": [
+      "Fiji"
+    ],
+    "transitCountries": [
+      "Australia",
+      "New Zealand"
+    ],
+    "reasonForInclusion": "conservation concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium",
+    "identificationNotes": "Green iguanas with pale bands; confirm species identity and permits."
+  },
+  {
+    "id": "taxon-cuora-spp",
+    "scientificName": "Cuora spp.",
+    "commonName": "Asian box turtles",
+    "taxonGroup": "turtle",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "China",
+      "Vietnam",
+      "Laos",
+      "Indonesia"
+    ],
+    "possibleOriginCountries": [
+      "China",
+      "Vietnam",
+      "Laos",
+      "Indonesia"
+    ],
+    "transitCountries": [
+      "Hong Kong",
+      "Thailand",
+      "Singapore"
+    ],
+    "reasonForInclusion": "high demand proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "high",
+    "identificationNotes": "Box turtles; document shell pattern and verify source claims."
+  },
+  {
+    "id": "taxon-cuora-trifasciata",
+    "scientificName": "Cuora trifasciata",
+    "commonName": "Golden coin turtle",
+    "taxonGroup": "turtle",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "China",
+      "Vietnam",
+      "Laos"
+    ],
+    "possibleOriginCountries": [
+      "China",
+      "Vietnam",
+      "Laos"
+    ],
+    "transitCountries": [
+      "Hong Kong",
+      "Thailand"
+    ],
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high",
+    "identificationNotes": "Yellow-striped box turtle; recommended expert identification."
+  },
+  {
+    "id": "taxon-cuora-pani",
+    "scientificName": "Cuora pani",
+    "commonName": "Pan's box turtle",
+    "taxonGroup": "turtle",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "China"
+    ],
+    "possibleOriginCountries": [
+      "China"
+    ],
+    "transitCountries": [
+      "Hong Kong"
+    ],
+    "reasonForInclusion": "rare turtle proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium",
+    "identificationNotes": "Rare box turtle; confirm species and documentation."
+  },
+  {
+    "id": "taxon-mauremys-nigricans",
+    "scientificName": "Mauremys nigricans",
+    "commonName": "Red-necked pond turtle",
+    "taxonGroup": "turtle",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "China",
+      "Vietnam"
+    ],
+    "possibleOriginCountries": [
+      "China",
+      "Vietnam"
+    ],
+    "transitCountries": [
+      "Hong Kong",
+      "Thailand"
+    ],
+    "reasonForInclusion": "trade concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium",
+    "identificationNotes": "Dark pond turtle with reddish neck; verify identity."
+  },
+  {
+    "id": "taxon-cordylus-spp",
+    "scientificName": "Cordylus spp.",
+    "commonName": "Girdled lizards",
+    "taxonGroup": "lizard",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "South Africa",
+      "Namibia"
+    ],
+    "possibleOriginCountries": [
+      "South Africa",
+      "Namibia"
+    ],
+    "transitCountries": [
+      "United Arab Emirates",
+      "Netherlands"
+    ],
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium",
+    "identificationNotes": "Spiny girdled lizards; verify origin."
+  },
+  {
+    "id": "taxon-smaug-spp",
+    "scientificName": "Smaug spp.",
+    "commonName": "Giant girdled lizards",
+    "taxonGroup": "lizard",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "South Africa"
+    ],
+    "possibleOriginCountries": [
+      "South Africa"
+    ],
+    "transitCountries": [
+      "United Arab Emirates",
+      "Netherlands"
+    ],
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium",
+    "identificationNotes": "Large spiny cordylids; check source documentation."
+  },
+  {
+    "id": "taxon-ouroborus-spp",
+    "scientificName": "Ouroborus spp.",
+    "commonName": "Armadillo girdled lizards",
+    "taxonGroup": "lizard",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "South Africa"
+    ],
+    "possibleOriginCountries": [
+      "South Africa"
+    ],
+    "transitCountries": [
+      "United Arab Emirates",
+      "Netherlands"
+    ],
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium",
+    "identificationNotes": "Armored lizards; confirm declared source."
+  },
+  {
+    "id": "taxon-uroplatus-spp",
+    "scientificName": "Uroplatus spp.",
+    "commonName": "Leaf-tailed geckos",
+    "taxonGroup": "gecko",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "Madagascar"
+    ],
+    "possibleOriginCountries": [
+      "Madagascar"
+    ],
+    "transitCountries": [
+      "France",
+      "United Arab Emirates"
+    ],
+    "reasonForInclusion": "high demand gecko proxy",
+    "evidenceBasis": "seller import mention",
+    "confidence": "medium",
+    "identificationNotes": "Cryptic leaf-tailed geckos; verify export documents."
+  },
+  {
+    "id": "taxon-furcifer-spp",
+    "scientificName": "Furcifer spp.",
+    "commonName": "Madagascar chameleons",
+    "taxonGroup": "chameleon",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "Madagascar"
+    ],
+    "possibleOriginCountries": [
+      "Madagascar"
+    ],
+    "transitCountries": [
+      "France",
+      "United Arab Emirates"
+    ],
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium",
+    "identificationNotes": "Chameleons; check species and quota/source documentation."
+  },
+  {
+    "id": "taxon-varanus-prasinus",
+    "scientificName": "Varanus prasinus complex",
+    "commonName": "Green tree monitor complex",
+    "taxonGroup": "lizard",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ],
+    "possibleOriginCountries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ],
+    "transitCountries": [
+      "Singapore",
+      "Thailand"
+    ],
+    "reasonForInclusion": "arboreal monitor proxy",
+    "evidenceBasis": "attendee report",
+    "confidence": "medium",
+    "identificationNotes": "Green arboreal monitors; verify locality/source claims."
+  },
+  {
+    "id": "taxon-varanus-salvadorii",
+    "scientificName": "Varanus salvadorii",
+    "commonName": "Crocodile monitor",
+    "taxonGroup": "lizard",
+    "citesAppendix": "II",
+    "euAnnex": "B",
+    "nativeRangeCountries": [
+      "Papua New Guinea",
+      "Indonesia"
+    ],
+    "possibleOriginCountries": [
+      "Papua New Guinea",
+      "Indonesia"
+    ],
+    "transitCountries": [
+      "Singapore"
+    ],
+    "reasonForInclusion": "large monitor proxy",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium",
+    "identificationNotes": "Large monitor; verify permits and safe handling."
+  },
+  {
+    "id": "taxon-cyclura-spp",
+    "scientificName": "Cyclura spp.",
+    "commonName": "Rock iguanas",
+    "taxonGroup": "lizard",
+    "citesAppendix": "I/II",
+    "euAnnex": "A/B",
+    "nativeRangeCountries": [
+      "Caribbean"
+    ],
+    "possibleOriginCountries": [
+      "Caribbean"
+    ],
+    "transitCountries": [
+      "United States",
+      "Netherlands"
+    ],
+    "reasonForInclusion": "island endemic proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium",
+    "identificationNotes": "Large rock iguanas; verify captive-bred claims."
+  },
+  {
+    "id": "taxon-lygodactylus-williamsi",
+    "scientificName": "Lygodactylus williamsi",
+    "commonName": "Electric blue day gecko",
+    "taxonGroup": "gecko",
+    "citesAppendix": "I",
+    "euAnnex": "A",
+    "nativeRangeCountries": [
+      "Tanzania"
+    ],
+    "possibleOriginCountries": [
+      "Tanzania"
+    ],
+    "transitCountries": [
+      "United Arab Emirates",
+      "Netherlands"
+    ],
+    "reasonForInclusion": "high conservation concern",
+    "evidenceBasis": "seizure news",
+    "confidence": "high",
+    "identificationNotes": "Small bright blue gecko; high-priority verification."
+  }
+]

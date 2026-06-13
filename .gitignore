@@ -1,8 +1,8 @@
-.env
+node_modules/
+.next/
+out/
+.env*
 __pycache__/
 .pytest_cache/
 *.pyc
-*.db
-node_modules/
-.next/
-.env.local
+.DS_Store

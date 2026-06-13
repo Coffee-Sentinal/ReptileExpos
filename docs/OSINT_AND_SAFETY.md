@@ -1,13 +1,14 @@
-# OSINT and safety policy
+# OSINT and safety
 
-ExpoWatch is for lawful OSINT, intelligence organization, and enforcement support.
+ExpoWatch is for lawful OSINT organization and analytical planning.
 
-Do:
-- Use cautious language such as risk indicator, monitoring priority, possible origin country, route-risk intersection, evidence basis, confidence level, and recommended verification.
-- Preserve sources with URL, observation date, summary, red flags, and analyst notes.
-- Share sensitive route-risk outputs only with authorized partners.
+## Required language
+Use: risk indicator, monitoring priority, route-risk intersection, possible origin country, recommended verification, evidence basis, confidence level, and not proof of criminality.
 
-Do not:
-- Scrape private platforms, bypass logins, defeat rate limits, or automate account interactions.
-- Present route-risk as proof of criminality.
-- Label vendors, routes, or events as illegal without adjudicated or documented evidence.
+## Prohibited behavior
+- No private scraping, login bypassing, account automation, or defeating platform protections.
+- No claims that a route, flight, airline, courier, event, seller, or vendor is criminal based on indicators alone.
+- No sensitive operational data in this public GitHub Pages prototype.
+
+## Public-safe seed data
+Seed records are placeholders or public/open-source examples. Replace only with lawful public references and summaries.

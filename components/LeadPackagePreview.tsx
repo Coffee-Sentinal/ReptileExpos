@@ -1,0 +1,3 @@
+'use client';
+import type {LeadPackage} from '@/lib/types';
+export default function LeadPackagePreview({lead}:{lead:LeadPackage}){return <article className="card print:border-0 print:bg-white print:text-black"><h3 className="text-xl font-bold text-amber print:text-black">{lead.title}</h3><div className="prose prose-invert mt-3 max-w-none text-sm print:prose-slate" dangerouslySetInnerHTML={{__html:lead.html}}/><p className="mt-3 rounded border border-amber/30 bg-amber/10 p-3 text-sm font-semibold text-amber print:text-black">{lead.caveat}</p><button onClick={()=>globalThis.print()} className="mt-4 rounded-lg bg-amber px-4 py-2 font-bold text-navy print:hidden">Print / Save as PDF</button></article>}

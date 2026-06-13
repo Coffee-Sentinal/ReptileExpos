@@ -1,13 +1,15 @@
 # Architecture
 
-ExpoWatch is a monorepo with `backend/` and `frontend/` services orchestrated by Docker Compose.
+ExpoWatch is a static Next.js App Router site exported with `output: "export"` and deployable to GitHub Pages. It has no backend, no database, and no server runtime.
 
-- FastAPI exposes REST endpoints under `/api`.
-- SQLAlchemy models define normalized event, venue, airport, taxa, website, evidence, route-risk, risk-score, lead-package, user, organization, actor, and audit-log tables.
-- Alembic owns schema creation.
-- Next.js server components fetch API data and render operational pages; Leaflet is dynamically loaded client-side.
-- Sensitive route-risk logic remains server-side. UI labels all route data as route-risk intersections and recommended verification points.
+## Data flow
+1. Analysts edit JSON/CSV seed data under `public/data` and `data/raw`.
+2. Optional scripts in `scripts/` fetch or prepare public/open data and validate referential integrity.
+3. Next.js imports JSON at build time through `lib/data.ts`.
+4. Pages render static HTML/JS for dashboard, maps, event detail pages, calendar, taxa, evidence, routes, and lead packages.
 
-External adapter foundations:
-- `FlightScheduleProvider`, `MockFlightScheduleProvider`, `OAGProvider`, `CiriumProvider`, `FlightAwareProvider`.
-- `SpeciesPlusService` falls back to seed data when no token is configured.
+## Deployment
+`.github/workflows/deploy-pages.yml` installs Node, builds the static export, uploads `out/`, and deploys with GitHub Pages. `NEXT_PUBLIC_BASE_PATH` supports repository project pages.
+
+## Future backend path
+If operational needs require protected data, migrate sensitive features to a secure backend with authentication, RBAC, audit logs, encrypted storage, and partner-only route-risk controls. Keep this public static version limited to demo/open data.

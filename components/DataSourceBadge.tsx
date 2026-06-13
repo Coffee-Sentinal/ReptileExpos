@@ -1,0 +1,1 @@
+export default function DataSourceBadge({label='public/open-source/demo'}:{label?:string}){return <span className="rounded-full border border-line bg-panel2 px-2 py-1 text-xs text-slate-300">{label}</span>}
