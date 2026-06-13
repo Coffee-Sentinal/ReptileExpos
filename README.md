@@ -34,14 +34,41 @@ npm run build
 ```
 Next.js is configured with `output: "export"`; the static site is written to `out/`.
 
+## Branch-based GitHub Pages deployment from `/docs`
+This repository is configured so you can deploy from the `main` branch without GitHub Actions.
+
+1. Build the GitHub Pages export into `/docs`:
+   ```bash
+   npm run build:pages
+   ```
+2. Commit the updated `/docs` folder:
+   ```bash
+   git add docs
+   git commit -m "Build GitHub Pages static site"
+   git push origin main
+   ```
+3. In GitHub, open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select branch: `main`.
+6. Select folder: `/docs`.
+7. Save.
+
+The `build:pages` script sets the GitHub Pages base path to `/${REPOSITORY_NAME}` by default, runs the static Next.js export, copies `out/` into `/docs`, and writes `docs/.nojekyll`. To override the base path, run:
+
+```bash
+NEXT_PUBLIC_BASE_PATH=/your-repo-name npm run build:pages
+```
+
+The committed `docs/index.html` is a safe placeholder until you run `npm run build:pages`; after the script runs, `/docs` contains the final exported website files.
+
 ## Linting and validation
 ```bash
 npm run lint
 python scripts/validate_data.py
 ```
 
-## GitHub Pages deployment
-The workflow `.github/workflows/deploy-pages.yml` builds and deploys on pushes to `main`. For project pages, set `NEXT_PUBLIC_BASE_PATH` to `/${{ github.event.repository.name }}` in the workflow so links and assets work below `/REPOSITORY_NAME/`.
+## Documentation
+Project documentation lives in `project-docs/` so the `/docs` folder can be reserved for GitHub Pages static output.
 
 ## Editing seed data
 Edit readable JSON files in `public/data/`. Keep stable IDs and public-safe content only. Do not include private suspect data, phone numbers, sensitive intelligence, or scraped private platform data.
@@ -76,4 +103,4 @@ The current MVP validates static corridors. Optional future scripts can derive c
 - No authentication; this is a public-safe prototype.
 
 ## Roadmap
-See `docs/ROADMAP.md`.
+See `project-docs/ROADMAP.md`.
