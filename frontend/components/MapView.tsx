@@ -1,0 +1,4 @@
+'use client';
+import {MapContainer,TileLayer,Marker,Popup} from 'react-leaflet'; import L from 'leaflet'; import Link from 'next/link'; import type {Event} from '@/lib/api';
+const icon=new L.Icon({iconUrl:'https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png',shadowUrl:'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png'});
+export default function MapView({events}:{events:Event[]}){return <MapContainer center={[25,5]} zoom={2} scrollWheelZoom={false}><TileLayer attribution="&copy; OpenStreetMap" url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />{events.map(e=><Marker key={e.id} position={[e.venue.latitude,e.venue.longitude]} icon={icon}><Popup><strong>{e.name}</strong><br/>{e.venue.city}, {e.venue.country}<br/>{e.venue.name}<br/>Date: {e.dates?.[0]?.start_date}<br/>Risk: {e.risk_score?.priority}<br/><Link href={`/events/${e.slug}`}>Detail</Link></Popup></Marker>)}</MapContainer>}
