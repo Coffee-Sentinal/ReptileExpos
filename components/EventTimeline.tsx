@@ -1,0 +1,2 @@
+import {monitoringWindows} from '@/lib/monitoringWindows';
+export default function EventTimeline({date}:{date:string}){return <div className="grid gap-3 md:grid-cols-5">{monitoringWindows(date).map(w=><div key={w.key} className={`rounded-xl border p-3 ${w.status==='active'?'border-amber bg-amber/10':'border-line bg-panel'}`}><div className="text-sm font-bold text-amber">{w.label}</div><div className="mt-1 text-xs text-slate-300">{w.start} → {w.end}</div><div className="mt-2 text-xs uppercase tracking-wide text-slate-400">{w.status}</div></div>)}</div>}
