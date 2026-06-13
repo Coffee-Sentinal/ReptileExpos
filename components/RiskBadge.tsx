@@ -1,0 +1,2 @@
+import type {RiskLevel} from '@/lib/types';
+export default function RiskBadge({level}:{level:RiskLevel}){const c={low:'bg-mint/15 text-mint border-mint/30',medium:'bg-amber/15 text-amber border-amber/30',high:'bg-danger/15 text-red-200 border-danger/30',critical:'bg-fuchsia-500/15 text-fuchsia-200 border-fuchsia-400/30'}[level]; return <span className={`rounded-full border px-2.5 py-1 text-xs font-bold uppercase tracking-wide ${c}`}>{level}</span>}
