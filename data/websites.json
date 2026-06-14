@@ -1,0 +1,555 @@
+[
+  {
+    "id": "w-terraristika-hamm-0",
+    "name": "Terraristika Hamm official event site",
+    "url": "https://www.terraristikahamm.de/",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-terraristika-hamm-1",
+    "name": "Terraristika Hamm seller forum",
+    "url": "https://www.google.com/search?q=Terraristika+Hamm+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-terraristika-hamm-2",
+    "name": "Terraristika Hamm classifieds",
+    "url": "https://www.google.com/search?q=Terraristika+Hamm+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-terraristika-hamm-3",
+    "name": "Terraristika Hamm social media group",
+    "url": "https://www.google.com/search?q=Terraristika+Hamm+social+media+group+reptile+terrarium",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-terraria-houten-0",
+    "name": "Terraria Houten official event site",
+    "url": "https://www.google.com/search?q=Terraria+Houten+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-terraria-houten-1",
+    "name": "Terraria Houten seller forum",
+    "url": "https://www.google.com/search?q=Terraria+Houten+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-terraria-houten-2",
+    "name": "Terraria Houten classifieds",
+    "url": "https://www.google.com/search?q=Terraria+Houten+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-terraria-houten-3",
+    "name": "Terraria Houten social media group",
+    "url": "https://www.google.com/search?q=Terraria+Houten+social+media+group+reptile+terrarium",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-prague-reptile-fair-0",
+    "name": "Prague reptile/exotics fair official event site",
+    "url": "https://www.google.com/search?q=Prague+reptile%2Fexotics+fair+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-prague-reptile-fair-1",
+    "name": "Prague reptile/exotics fair seller forum",
+    "url": "https://www.google.com/search?q=Prague+reptile%2Fexotics+fair+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-prague-reptile-fair-2",
+    "name": "Prague reptile/exotics fair classifieds",
+    "url": "https://www.google.com/search?q=Prague+reptile%2Fexotics+fair+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-prague-reptile-fair-3",
+    "name": "Prague reptile/exotics fair social media group",
+    "url": "https://www.google.com/search?q=Prague+reptile%2Fexotics+fair+social+media+group+reptile+terrarium",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-verona-reptiles-0",
+    "name": "Verona Reptiles official event site",
+    "url": "https://www.google.com/search?q=Verona+Reptiles+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-verona-reptiles-1",
+    "name": "Verona Reptiles seller forum",
+    "url": "https://www.google.com/search?q=Verona+Reptiles+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-verona-reptiles-2",
+    "name": "Verona Reptiles classifieds",
+    "url": "https://www.google.com/search?q=Verona+Reptiles+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-verona-reptiles-3",
+    "name": "Verona Reptiles social media group",
+    "url": "https://www.google.com/search?q=Verona+Reptiles+social+media+group+reptile+terrarium",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-narbc-tinley-park-0",
+    "name": "NARBC Tinley Park official event site",
+    "url": "https://www.google.com/search?q=NARBC+Tinley+Park+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-narbc-tinley-park-1",
+    "name": "NARBC Tinley Park seller forum",
+    "url": "https://www.google.com/search?q=NARBC+Tinley+Park+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-narbc-tinley-park-2",
+    "name": "NARBC Tinley Park classifieds",
+    "url": "https://www.google.com/search?q=NARBC+Tinley+Park+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-narbc-tinley-park-3",
+    "name": "NARBC Tinley Park social media group",
+    "url": "https://www.google.com/search?q=NARBC+Tinley+Park+social+media+group+reptile+terrarium",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-japan-reptiles-show-0",
+    "name": "Japan Reptiles Show official event site",
+    "url": "https://www.google.com/search?q=Japan+Reptiles+Show+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-japan-reptiles-show-1",
+    "name": "Japan Reptiles Show seller forum",
+    "url": "https://www.google.com/search?q=Japan+Reptiles+Show+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-japan-reptiles-show-2",
+    "name": "Japan Reptiles Show classifieds",
+    "url": "https://www.google.com/search?q=Japan+Reptiles+Show+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-japan-reptiles-show-3",
+    "name": "Japan Reptiles Show social media group",
+    "url": "https://www.google.com/search?q=Japan+Reptiles+Show+social+media+group+reptile+terrarium",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-canadian-rbe-0",
+    "name": "Canadian Reptile Breeders Expo official event site",
+    "url": "https://www.google.com/search?q=Canadian+Reptile+Breeders+Expo+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-canadian-rbe-1",
+    "name": "Canadian Reptile Breeders Expo seller forum",
+    "url": "https://www.google.com/search?q=Canadian+Reptile+Breeders+Expo+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-canadian-rbe-2",
+    "name": "Canadian Reptile Breeders Expo classifieds",
+    "url": "https://www.google.com/search?q=Canadian+Reptile+Breeders+Expo+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-repticon-orlando-0",
+    "name": "Repticon Orlando official event site",
+    "url": "https://www.google.com/search?q=Repticon+Orlando+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "high",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-repticon-orlando-1",
+    "name": "Repticon Orlando seller forum",
+    "url": "https://www.google.com/search?q=Repticon+Orlando+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-repticon-orlando-2",
+    "name": "Repticon Orlando classifieds",
+    "url": "https://www.google.com/search?q=Repticon+Orlando+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-latam-placeholder-0",
+    "name": "Latin America reptile/exotics expo placeholder official event site",
+    "url": "https://www.google.com/search?q=Latin+America+reptile%2Fexotics+expo+placeholder+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "low",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-latam-placeholder-1",
+    "name": "Latin America reptile/exotics expo placeholder seller forum",
+    "url": "https://www.google.com/search?q=Latin+America+reptile%2Fexotics+expo+placeholder+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "low",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-latam-placeholder-2",
+    "name": "Latin America reptile/exotics expo placeholder classifieds",
+    "url": "https://www.google.com/search?q=Latin+America+reptile%2Fexotics+expo+placeholder+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "low",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-sea-placeholder-0",
+    "name": "Southeast Asia exotic pet/reptile market placeholder official event site",
+    "url": "https://www.google.com/search?q=Southeast+Asia+exotic+pet%2Freptile+market+placeholder+official+event+site+reptile+terrarium",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "low",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-sea-placeholder-1",
+    "name": "Southeast Asia exotic pet/reptile market placeholder seller forum",
+    "url": "https://www.google.com/search?q=Southeast+Asia+exotic+pet%2Freptile+market+placeholder+seller+forum+reptile+terrarium",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "low",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "w-sea-placeholder-2",
+    "name": "Southeast Asia exotic pet/reptile market placeholder classifieds",
+    "url": "https://www.google.com/search?q=Southeast+Asia+exotic+pet%2Freptile+market+placeholder+classifieds+reptile+terrarium",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "notes": "Open-web source category for analyst review.",
+    "confidence": "low",
+    "last_checked": "2026-06-01",
+    "watchlist": false
+  },
+  {
+    "id": "platform-chovzvirat",
+    "name": "ChovZvířat.cz terraristika classifieds",
+    "url": "https://www.chovzvirat.cz/inzerce/teraristika/",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Czech terraristika classifieds and discussion ecosystem; monitor public listings and event chatter.",
+    "confidence": "high",
+    "last_checked": "2026-06-14",
+    "watchlist": true
+  },
+  {
+    "id": "platform-terraristik",
+    "name": "terraristik.com herp classifieds",
+    "url": "https://www.terraristik.com/en/",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "terraristika-hamm",
+      "terraria-houten",
+      "verona-reptiles"
+    ],
+    "notes": "Major European reptile and terrarium animal classified platform with breeder and expo references.",
+    "confidence": "high",
+    "last_checked": "2026-06-14",
+    "watchlist": true
+  },
+  {
+    "id": "platform-enimalia",
+    "name": "Enimalia animal ads database",
+    "url": "https://www.enimalia.com/",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "terraristika-hamm",
+      "verona-reptiles",
+      "prague-reptile-fair"
+    ],
+    "notes": "International animal classified platform with terraristic categories including lizards, snakes, turtles, amphibians, and supplies.",
+    "confidence": "high",
+    "last_checked": "2026-06-14",
+    "watchlist": true
+  },
+  {
+    "id": "platform-faunaclassifieds",
+    "name": "FaunaClassifieds",
+    "url": "https://www.faunaclassifieds.com/",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "narbc-tinley-park",
+      "repticon-orlando"
+    ],
+    "notes": "US reptile classified/forum ecosystem; useful for public pre-event and post-event monitoring.",
+    "confidence": "medium",
+    "last_checked": "2026-06-14",
+    "watchlist": true
+  },
+  {
+    "id": "platform-morphmarket",
+    "name": "MorphMarket",
+    "url": "https://www.morphmarket.com/",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "narbc-tinley-park",
+      "repticon-orlando",
+      "canadian-rbe"
+    ],
+    "notes": "Large reptile marketplace with seller geography and availability signals; use public listing review only.",
+    "confidence": "medium",
+    "last_checked": "2026-06-14",
+    "watchlist": true
+  },
+  {
+    "id": "platform-terraristik-cz-search",
+    "name": "Czech reptile fair public search",
+    "url": "https://www.google.com/search?q=site%3Achovzvirat.cz+teraristika+burza+plaz%C5%AF",
+    "source_type": "open web search result",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Saved public web query for Czech reptile fair and classifieds monitoring.",
+    "confidence": "medium",
+    "last_checked": "2026-06-14",
+    "watchlist": true
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "id": "terraristika-hamm",
+    "name": "Terraristika Hamm",
+    "type": "expo",
+    "venue": "Zentralhallen Hamm",
+    "city": "Hamm",
+    "country": "Germany",
+    "region": "Europe",
+    "latitude": 51.681,
+    "longitude": -7.816,
+    "official_url": "https://www.terraristikahamm.de/",
+    "known_dates": [
+      "2026-08-15"
+    ],
+    "frequency": "quarterly",
+    "nearest_airports": [
+      "DUS",
+      "FRA"
+    ],
+    "linked_website_ids": [
+      "w-terraristika-hamm-0",
+      "w-terraristika-hamm-1",
+      "w-terraristika-hamm-2",
+      "w-terraristika-hamm-3"
+    ],
+    "proxy_taxa_ids": [
+      "lanthanotus-borneensis",
+      "naultinus-spp",
+      "brachylophus-spp",
+      "cuora-spp",
+      "cuora-trifasciata"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Fiji",
+      "Indonesia",
+      "Laos"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "medium",
+    "monitoring_priority": "high",
+    "evidence_ids": [
+      "e-terraristika-hamm-0",
+      "e-terraristika-hamm-1",
+      "e-terraristika-hamm-2"
+    ]
+  },
+  {
+    "id": "terraria-houten",
+    "name": "Terraria Houten",
+    "type": "expo",
+    "venue": "Expo Houten",
+    "city": "Houten",
+    "country": "Netherlands",
+    "region": "Europe",
+    "latitude": 52.034,
+    "longitude": 5.168,
+    "official_url": "https://www.terrarianl.nl/",
+    "known_dates": [
+      "2026-09-01"
+    ],
+    "frequency": "recurring",
+    "nearest_airports": [
+      "AMS",
+      "EIN"
+    ],
+    "linked_website_ids": [
+      "w-terraria-houten-0",
+      "w-terraria-houten-1",
+      "w-terraria-houten-2",
+      "w-terraria-houten-3"
+    ],
+    "proxy_taxa_ids": [
+      "naultinus-spp",
+      "brachylophus-spp",
+      "cuora-spp",
+      "cuora-trifasciata",
+      "cuora-pani"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Fiji",
+      "Indonesia",
+      "Laos"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "medium",
+    "monitoring_priority": "high",
+    "evidence_ids": [
+      "e-terraria-houten-0",
+      "e-terraria-houten-1",
+      "e-terraria-houten-2"
+    ]
+  },
+  {
+    "id": "prague-reptile-fair",
+    "name": "Prague reptile/exotics fair",
+    "type": "expo",
+    "venue": "PVA Expo Praha",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "region": "Europe",
+    "latitude": 50.075,
+    "longitude": 14.438,
+    "official_url": "https://www.google.com/search?q=Prague+reptile+exotics+fair",
+    "known_dates": [
+      "2026-09-18"
+    ],
+    "frequency": "recurring",
+    "nearest_airports": [
+      "PRG",
+      "VIE"
+    ],
+    "linked_website_ids": [
+      "w-prague-reptile-fair-0",
+      "w-prague-reptile-fair-1",
+      "w-prague-reptile-fair-2",
+      "w-prague-reptile-fair-3"
+    ],
+    "proxy_taxa_ids": [
+      "brachylophus-spp",
+      "cuora-spp",
+      "cuora-trifasciata",
+      "cuora-pani",
+      "mauremys-nigricans"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Fiji",
+      "Indonesia",
+      "Laos"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "medium",
+    "monitoring_priority": "medium",
+    "evidence_ids": [
+      "e-prague-reptile-fair-0",
+      "e-prague-reptile-fair-1",
+      "e-prague-reptile-fair-2"
+    ]
+  },
+  {
+    "id": "verona-reptiles",
+    "name": "Verona Reptiles",
+    "type": "expo",
+    "venue": "Veronafiere",
+    "city": "Verona",
+    "country": "Italy",
+    "region": "Europe",
+    "latitude": 45.438,
+    "longitude": 10.991,
+    "official_url": "https://www.google.com/search?q=Verona+Reptiles+expo",
+    "known_dates": [
+      "2026-10-05"
+    ],
+    "frequency": "annual/recurring",
+    "nearest_airports": [
+      "VRN",
+      "MXP"
+    ],
+    "linked_website_ids": [
+      "w-verona-reptiles-0",
+      "w-verona-reptiles-1",
+      "w-verona-reptiles-2",
+      "w-verona-reptiles-3"
+    ],
+    "proxy_taxa_ids": [
+      "cuora-spp",
+      "cuora-trifasciata",
+      "cuora-pani",
+      "mauremys-nigricans",
+      "cordylus-spp"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Indonesia",
+      "Laos",
+      "Namibia"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "medium",
+    "monitoring_priority": "medium",
+    "evidence_ids": [
+      "e-verona-reptiles-0",
+      "e-verona-reptiles-1",
+      "e-verona-reptiles-2"
+    ]
+  },
+  {
+    "id": "narbc-tinley-park",
+    "name": "NARBC Tinley Park",
+    "type": "expo",
+    "venue": "Tinley Park Convention Center",
+    "city": "Tinley Park, Illinois",
+    "country": "United States",
+    "region": "North America",
+    "latitude": 41.573,
+    "longitude": -87.784,
+    "official_url": "https://www.narbc.com/",
+    "known_dates": [
+      "2026-10-22"
+    ],
+    "frequency": "recurring",
+    "nearest_airports": [
+      "ORD",
+      "MDW"
+    ],
+    "linked_website_ids": [
+      "w-narbc-tinley-park-0",
+      "w-narbc-tinley-park-1",
+      "w-narbc-tinley-park-2",
+      "w-narbc-tinley-park-3"
+    ],
+    "proxy_taxa_ids": [
+      "cuora-trifasciata",
+      "cuora-pani",
+      "mauremys-nigricans",
+      "cordylus-spp",
+      "smaug-spp"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Laos",
+      "Namibia",
+      "South Africa"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "medium",
+    "monitoring_priority": "high",
+    "evidence_ids": [
+      "e-narbc-tinley-park-0",
+      "e-narbc-tinley-park-1",
+      "e-narbc-tinley-park-2"
+    ]
+  },
+  {
+    "id": "japan-reptiles-show",
+    "name": "Japan Reptiles Show",
+    "type": "expo",
+    "venue": "Twin Messe Shizuoka",
+    "city": "Shizuoka",
+    "country": "Japan",
+    "region": "East Asia",
+    "latitude": 34.975,
+    "longitude": 138.383,
+    "official_url": "https://www.google.com/search?q=Japan+Reptiles+Show+Shizuoka",
+    "known_dates": [
+      "2026-11-08"
+    ],
+    "frequency": "annual/recurring",
+    "nearest_airports": [
+      "HND",
+      "NRT"
+    ],
+    "linked_website_ids": [
+      "w-japan-reptiles-show-0",
+      "w-japan-reptiles-show-1",
+      "w-japan-reptiles-show-2",
+      "w-japan-reptiles-show-3"
+    ],
+    "proxy_taxa_ids": [
+      "cuora-pani",
+      "mauremys-nigricans",
+      "cordylus-spp",
+      "smaug-spp",
+      "ouroborus-spp"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Namibia",
+      "South Africa",
+      "Vietnam"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "medium",
+    "monitoring_priority": "medium",
+    "evidence_ids": [
+      "e-japan-reptiles-show-0",
+      "e-japan-reptiles-show-1",
+      "e-japan-reptiles-show-2"
+    ]
+  },
+  {
+    "id": "canadian-rbe",
+    "name": "Canadian Reptile Breeders Expo",
+    "type": "expo",
+    "venue": "International Centre placeholder",
+    "city": "Toronto area",
+    "country": "Canada",
+    "region": "North America",
+    "latitude": 43.653,
+    "longitude": -79.383,
+    "official_url": "https://reptileexpo.ca/",
+    "known_dates": [
+      "2026-11-25"
+    ],
+    "frequency": "annual/recurring",
+    "nearest_airports": [
+      "YYZ",
+      "YUL"
+    ],
+    "linked_website_ids": [
+      "w-canadian-rbe-0",
+      "w-canadian-rbe-1",
+      "w-canadian-rbe-2"
+    ],
+    "proxy_taxa_ids": [
+      "mauremys-nigricans",
+      "cordylus-spp",
+      "smaug-spp",
+      "ouroborus-spp",
+      "uroplatus-spp"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Madagascar",
+      "Namibia",
+      "South Africa"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "low",
+    "monitoring_priority": "medium",
+    "evidence_ids": [
+      "e-canadian-rbe-0",
+      "e-canadian-rbe-1",
+      "e-canadian-rbe-2"
+    ]
+  },
+  {
+    "id": "repticon-orlando",
+    "name": "Repticon Orlando",
+    "type": "expo",
+    "venue": "Central Florida Fairgrounds",
+    "city": "Orlando, Florida",
+    "country": "United States",
+    "region": "North America",
+    "latitude": 28.538,
+    "longitude": -81.379,
+    "official_url": "https://repticon.com/florida/orlando/",
+    "known_dates": [
+      "2026-12-12"
+    ],
+    "frequency": "recurring",
+    "nearest_airports": [
+      "MCO",
+      "TPA"
+    ],
+    "linked_website_ids": [
+      "w-repticon-orlando-0",
+      "w-repticon-orlando-1",
+      "w-repticon-orlando-2"
+    ],
+    "proxy_taxa_ids": [
+      "cordylus-spp",
+      "smaug-spp",
+      "ouroborus-spp",
+      "uroplatus-spp",
+      "furcifer-spp"
+    ],
+    "possible_origin_countries": [
+      "Madagascar",
+      "Namibia",
+      "South Africa"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "low",
+    "monitoring_priority": "medium",
+    "evidence_ids": [
+      "e-repticon-orlando-0",
+      "e-repticon-orlando-1",
+      "e-repticon-orlando-2"
+    ]
+  },
+  {
+    "id": "latam-placeholder",
+    "name": "Latin America reptile/exotics expo placeholder",
+    "type": "demo/placeholder",
+    "venue": "Demo venue placeholder",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "region": "Latin America",
+    "latitude": -23.55,
+    "longitude": -46.633,
+    "official_url": "https://www.google.com/search?q=Latin+America+reptile+expo",
+    "known_dates": [
+      "2026-12-29"
+    ],
+    "frequency": "placeholder/demo",
+    "nearest_airports": [
+      "GRU",
+      "GIG"
+    ],
+    "linked_website_ids": [
+      "w-latam-placeholder-0",
+      "w-latam-placeholder-1",
+      "w-latam-placeholder-2"
+    ],
+    "proxy_taxa_ids": [
+      "smaug-spp",
+      "ouroborus-spp",
+      "uroplatus-spp",
+      "furcifer-spp",
+      "varanus-prasinus-complex"
+    ],
+    "possible_origin_countries": [
+      "Indonesia",
+      "Madagascar",
+      "Papua New Guinea",
+      "South Africa"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "low",
+    "monitoring_priority": "low",
+    "evidence_ids": [
+      "e-latam-placeholder-0",
+      "e-latam-placeholder-1",
+      "e-latam-placeholder-2"
+    ]
+  },
+  {
+    "id": "sea-placeholder",
+    "name": "Southeast Asia exotic pet/reptile market placeholder",
+    "type": "demo/placeholder",
+    "venue": "Demo market area placeholder",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "region": "Southeast Asia",
+    "latitude": 13.756,
+    "longitude": 100.501,
+    "official_url": "https://www.google.com/search?q=Bangkok+exotic+pet+reptile+market",
+    "known_dates": [
+      "2027-01-15"
+    ],
+    "frequency": "placeholder/demo",
+    "nearest_airports": [
+      "BKK",
+      "DMK"
+    ],
+    "linked_website_ids": [
+      "w-sea-placeholder-0",
+      "w-sea-placeholder-1",
+      "w-sea-placeholder-2"
+    ],
+    "proxy_taxa_ids": [
+      "ouroborus-spp",
+      "uroplatus-spp",
+      "furcifer-spp",
+      "varanus-prasinus-complex",
+      "varanus-salvadorii"
+    ],
+    "possible_origin_countries": [
+      "Indonesia",
+      "Madagascar",
+      "Papua New Guinea",
+      "South Africa"
+    ],
+    "possible_consumer_countries": [
+      "EU internal movements",
+      "Japan",
+      "South Korea",
+      "Hong Kong"
+    ],
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
+    "confidence": "low",
+    "monitoring_priority": "low",
+    "evidence_ids": [
+      "e-sea-placeholder-0",
+      "e-sea-placeholder-1",
+      "e-sea-placeholder-2"
+    ]
+  }
+]

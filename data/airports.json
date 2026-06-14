@@ -1,0 +1,222 @@
+[
+  {
+    "id": "dus",
+    "name": "Düsseldorf Airport",
+    "iata": "DUS",
+    "icao": "EDDL",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "latitude": 51.289,
+    "longitude": 6.767,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "fra",
+    "name": "Frankfurt Airport",
+    "iata": "FRA",
+    "icao": "EDDF",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "latitude": 50.037,
+    "longitude": 8.562,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "ams",
+    "name": "Amsterdam Schiphol",
+    "iata": "AMS",
+    "icao": "EHAM",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "latitude": 52.31,
+    "longitude": 4.768,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "ein",
+    "name": "Eindhoven Airport",
+    "iata": "EIN",
+    "icao": "EHEH",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "latitude": 51.45,
+    "longitude": 5.374,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "prg",
+    "name": "Václav Havel Airport Prague",
+    "iata": "PRG",
+    "icao": "LKPR",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "latitude": 50.1,
+    "longitude": 14.26,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "vie",
+    "name": "Vienna Airport",
+    "iata": "VIE",
+    "icao": "LOWW",
+    "city": "Vienna",
+    "country": "Austria",
+    "latitude": 48.11,
+    "longitude": 16.57,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "vrn",
+    "name": "Verona Villafranca Airport",
+    "iata": "VRN",
+    "icao": "LIPX",
+    "city": "Verona",
+    "country": "Italy",
+    "latitude": 45.395,
+    "longitude": 10.888,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "mxp",
+    "name": "Milan Malpensa",
+    "iata": "MXP",
+    "icao": "LIMC",
+    "city": "Milan",
+    "country": "Italy",
+    "latitude": 45.63,
+    "longitude": 8.723,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "ord",
+    "name": "Chicago O’Hare",
+    "iata": "ORD",
+    "icao": "KORD",
+    "city": "Chicago",
+    "country": "United States",
+    "latitude": 41.974,
+    "longitude": -87.907,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "mdw",
+    "name": "Chicago Midway",
+    "iata": "MDW",
+    "icao": "KMDW",
+    "city": "Chicago",
+    "country": "United States",
+    "latitude": 41.786,
+    "longitude": -87.752,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "hnd",
+    "name": "Tokyo Haneda",
+    "iata": "HND",
+    "icao": "RJTT",
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.549,
+    "longitude": 139.78,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "nrt",
+    "name": "Tokyo Narita",
+    "iata": "NRT",
+    "icao": "RJAA",
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.772,
+    "longitude": 140.392,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "yyz",
+    "name": "Toronto Pearson",
+    "iata": "YYZ",
+    "icao": "CYYZ",
+    "city": "Toronto",
+    "country": "Canada",
+    "latitude": 43.677,
+    "longitude": -79.624,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "yul",
+    "name": "Montréal Trudeau",
+    "iata": "YUL",
+    "icao": "CYUL",
+    "city": "Montréal",
+    "country": "Canada",
+    "latitude": 45.47,
+    "longitude": -73.741,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "mco",
+    "name": "Orlando International",
+    "iata": "MCO",
+    "icao": "KMCO",
+    "city": "Orlando",
+    "country": "United States",
+    "latitude": 28.429,
+    "longitude": -81.309,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "tpa",
+    "name": "Tampa International",
+    "iata": "TPA",
+    "icao": "KTPA",
+    "city": "Tampa",
+    "country": "United States",
+    "latitude": 27.975,
+    "longitude": -82.533,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "gru",
+    "name": "São Paulo Guarulhos",
+    "iata": "GRU",
+    "icao": "SBGR",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "latitude": -23.435,
+    "longitude": -46.473,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "gig",
+    "name": "Rio de Janeiro Galeão",
+    "iata": "GIG",
+    "icao": "SBGL",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "latitude": -22.81,
+    "longitude": -43.25,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "bkk",
+    "name": "Bangkok Suvarnabhumi",
+    "iata": "BKK",
+    "icao": "VTBS",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "latitude": 13.69,
+    "longitude": 100.75,
+    "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "dmk",
+    "name": "Bangkok Don Mueang",
+    "iata": "DMK",
+    "icao": "VTBD",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "latitude": 13.912,
+    "longitude": 100.607,
+    "airport_type": "large/medium public airport"
+  }
+]
