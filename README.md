@@ -57,15 +57,15 @@ If the Pages URL renders this README instead of the dashboard, GitHub Pages is s
 
 ## Data files
 - `data/events.json` — expo/event profiles, dates, priorities, linked websites, taxa, evidence, origins, and consumers.
-- `data/taxa.json` — proxy taxa library with CITES/EU status, origin countries, evidence basis, and officer-facing notes.
-- `data/websites.json` — websites and online source categories.
+- `data/taxa.json` — proxy taxa library with images, IUCN category, CITES/EU status, range-state protection notes, origin countries, evidence basis, and officer-facing notes.
+- `data/websites.json` — websites, online source categories, and the Platform Watchlist (for example ChovZvířat.cz, terraristik.com, Enimalia, MorphMarket, and forum/classified sources).
 - `data/evidence.json` — evidence/news examples.
 - `data/airports.json` — local airport coordinates.
-- `data/routes.json` — static route-risk corridors marked as not live flight intelligence.
+- `data/routes.json` — route-risk corridors with public airline/route lookup links rendered in the dashboard.
 - `data/countries.json` — country list.
 
 ## How to edit data files
-Edit the JSON files in `data/` with stable IDs. Keep content appropriate for partner review. Do not add private suspect data, private screenshots, phone numbers, account information, or sensitive operational intelligence.
+Edit the JSON files in `data/` with stable IDs. Keep content appropriate for operational review. Do not add private suspect data, private screenshots, phone numbers, account information, or sensitive operational intelligence.
 
 ## How to add an event
 1. Add a new object to `data/events.json`.
@@ -83,6 +83,12 @@ Open the “Evidence & News Monitor” tab, enter a keyword and optional event/s
 ## How to use GBIF lookup
 Open the “High-Risk Taxa” tab and click “Check GBIF taxonomy/range” on a taxon card. GBIF results provide biological context and taxonomy/range references.
 
+## Risk scoring and live-reference tools
+- Event scoring uses explicit risk-indicator fields in `data/events.json`, public media/evidence counts, platform/source links, route corridors, and a small taxon-risk bonus. Click the “ⓘ How score is generated” button in any event profile to review the weights.
+- Taxon scoring uses IUCN category, CITES Appendix, EU Annex, and range-state protection fields.
+- The Route-Risk tab includes public flight/airline lookup links for selected event airports through free web widgets such as Flightradar24 and FlightConnections.
+- The Evidence & News Monitor includes GDELT search plus Google News RSS links for each event country/name.
+
 ## Data editor / import-export
 The editor tab lets you add an evidence draft in browser memory, save edits to `localStorage`, export edited JSON, import JSON, or reset to bundled demo data. It does not write back to GitHub.
 
@@ -93,4 +99,4 @@ The editor tab lets you add an evidence draft in browser memory, save edits to `
 - Browser local edits remain local unless exported and manually committed.
 
 ## Caveat
-ExpoWatch is an event-risk and route-risk dashboard for partner review and monitoring prioritization.
+ExpoWatch is an event-risk and route-risk dashboard for operational review and monitoring prioritization.

@@ -8,7 +8,7 @@
     "country": "Germany",
     "region": "Europe",
     "latitude": 51.681,
-    "longitude": -7.816,
+    "longitude": 7.816,
     "official_url": "https://www.terraristikahamm.de/",
     "known_dates": [
       "2026-08-15"
@@ -44,13 +44,22 @@
       "Hong Kong"
     ],
     "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
-    "confidence": "medium",
-    "monitoring_priority": "high",
+    "confidence": "high",
+    "monitoring_priority": "critical",
     "evidence_ids": [
       "e-terraristika-hamm-0",
       "e-terraristika-hamm-1",
       "e-terraristika-hamm-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 4,
+      "seizure_history": 3,
+      "high_risk_taxa_sales": 5,
+      "wild_caught_discourse": 4,
+      "courier_export_links": 3,
+      "international_platform_links": 5,
+      "source_country_overlap": 5
+    }
   },
   {
     "id": "terraria-houten",
@@ -103,7 +112,16 @@
       "e-terraria-houten-0",
       "e-terraria-houten-1",
       "e-terraria-houten-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 3,
+      "seizure_history": 2,
+      "high_risk_taxa_sales": 4,
+      "wild_caught_discourse": 3,
+      "courier_export_links": 2,
+      "international_platform_links": 4,
+      "source_country_overlap": 4
+    }
   },
   {
     "id": "prague-reptile-fair",
@@ -156,7 +174,16 @@
       "e-prague-reptile-fair-0",
       "e-prague-reptile-fair-1",
       "e-prague-reptile-fair-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 2,
+      "seizure_history": 1,
+      "high_risk_taxa_sales": 3,
+      "wild_caught_discourse": 2,
+      "courier_export_links": 1,
+      "international_platform_links": 3,
+      "source_country_overlap": 3
+    }
   },
   {
     "id": "verona-reptiles",
@@ -209,7 +236,16 @@
       "e-verona-reptiles-0",
       "e-verona-reptiles-1",
       "e-verona-reptiles-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 2,
+      "seizure_history": 1,
+      "high_risk_taxa_sales": 3,
+      "wild_caught_discourse": 2,
+      "courier_export_links": 1,
+      "international_platform_links": 3,
+      "source_country_overlap": 3
+    }
   },
   {
     "id": "narbc-tinley-park",
@@ -262,7 +298,16 @@
       "e-narbc-tinley-park-0",
       "e-narbc-tinley-park-1",
       "e-narbc-tinley-park-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 2,
+      "seizure_history": 1,
+      "high_risk_taxa_sales": 4,
+      "wild_caught_discourse": 3,
+      "courier_export_links": 2,
+      "international_platform_links": 3,
+      "source_country_overlap": 3
+    }
   },
   {
     "id": "japan-reptiles-show",
@@ -310,12 +355,21 @@
     ],
     "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "medium",
-    "monitoring_priority": "medium",
+    "monitoring_priority": "high",
     "evidence_ids": [
       "e-japan-reptiles-show-0",
       "e-japan-reptiles-show-1",
       "e-japan-reptiles-show-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 2,
+      "seizure_history": 2,
+      "high_risk_taxa_sales": 3,
+      "wild_caught_discourse": 2,
+      "courier_export_links": 2,
+      "international_platform_links": 3,
+      "source_country_overlap": 4
+    }
   },
   {
     "id": "canadian-rbe",
@@ -367,7 +421,16 @@
       "e-canadian-rbe-0",
       "e-canadian-rbe-1",
       "e-canadian-rbe-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 2,
+      "seizure_history": 1,
+      "high_risk_taxa_sales": 3,
+      "wild_caught_discourse": 2,
+      "courier_export_links": 1,
+      "international_platform_links": 3,
+      "source_country_overlap": 3
+    }
   },
   {
     "id": "repticon-orlando",
@@ -418,7 +481,16 @@
       "e-repticon-orlando-0",
       "e-repticon-orlando-1",
       "e-repticon-orlando-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 2,
+      "seizure_history": 1,
+      "high_risk_taxa_sales": 3,
+      "wild_caught_discourse": 2,
+      "courier_export_links": 1,
+      "international_platform_links": 3,
+      "source_country_overlap": 3
+    }
   },
   {
     "id": "latam-placeholder",
@@ -465,12 +537,21 @@
     ],
     "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "low",
-    "monitoring_priority": "low",
+    "monitoring_priority": "medium",
     "evidence_ids": [
       "e-latam-placeholder-0",
       "e-latam-placeholder-1",
       "e-latam-placeholder-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 1,
+      "seizure_history": 1,
+      "high_risk_taxa_sales": 2,
+      "wild_caught_discourse": 1,
+      "courier_export_links": 1,
+      "international_platform_links": 2,
+      "source_country_overlap": 3
+    }
   },
   {
     "id": "sea-placeholder",
@@ -517,11 +598,82 @@
     ],
     "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "low",
-    "monitoring_priority": "low",
+    "monitoring_priority": "medium",
     "evidence_ids": [
       "e-sea-placeholder-0",
       "e-sea-placeholder-1",
       "e-sea-placeholder-2"
-    ]
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 1,
+      "seizure_history": 1,
+      "high_risk_taxa_sales": 2,
+      "wild_caught_discourse": 1,
+      "courier_export_links": 1,
+      "international_platform_links": 2,
+      "source_country_overlap": 3
+    }
+  },
+  {
+    "id": "reptile-fair-incheon",
+    "name": "Reptile Fair Incheon",
+    "type": "expo",
+    "venue": "Songdo Convensia",
+    "city": "Incheon",
+    "country": "South Korea",
+    "region": "East Asia",
+    "latitude": 37.388758,
+    "longitude": 126.646564,
+    "official_url": "https://10times.com/e1d0-355d-zfgs-g",
+    "known_dates": [
+      "2026-07-10"
+    ],
+    "frequency": "recurring / listed event",
+    "nearest_airports": [
+      "ICN",
+      "GMP"
+    ],
+    "linked_website_ids": [
+      "w-reptile-fair-incheon-0",
+      "w-reptile-fair-incheon-1",
+      "platform-morphmarket"
+    ],
+    "proxy_taxa_ids": [
+      "cuora-spp",
+      "cuora-trifasciata",
+      "lygodactylus-williamsi",
+      "varanus-prasinus-complex",
+      "uroplatus-spp"
+    ],
+    "possible_origin_countries": [
+      "China",
+      "Vietnam",
+      "Indonesia",
+      "Madagascar",
+      "Tanzania"
+    ],
+    "possible_consumer_countries": [
+      "South Korea",
+      "Japan",
+      "Hong Kong",
+      "mainland China",
+      "United States"
+    ],
+    "risk_notes": "Monitoring priority is based on regional demand, proxy taxa, public platform links, airport connectivity, and media/search indicators.",
+    "confidence": "medium",
+    "monitoring_priority": "high",
+    "evidence_ids": [
+      "e-reptile-fair-incheon-0",
+      "e-reptile-fair-incheon-1"
+    ],
+    "risk_indicators": {
+      "media_iwt_mentions": 2,
+      "seizure_history": 2,
+      "high_risk_taxa_sales": 4,
+      "wild_caught_discourse": 2,
+      "courier_export_links": 2,
+      "international_platform_links": 4,
+      "source_country_overlap": 5
+    }
   }
 ]

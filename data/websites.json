@@ -551,5 +551,31 @@
     "confidence": "medium",
     "last_checked": "2026-06-14",
     "watchlist": true
+  },
+  {
+    "id": "w-reptile-fair-incheon-0",
+    "name": "Reptile Fair Incheon event listing",
+    "url": "https://10times.com/e1d0-355d-zfgs-g",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "reptile-fair-incheon"
+    ],
+    "notes": "Public event listing for Reptile Fair Incheon at Songdo Convensia.",
+    "confidence": "medium",
+    "last_checked": "2026-06-14",
+    "watchlist": false
+  },
+  {
+    "id": "w-reptile-fair-incheon-1",
+    "name": "Korea reptile show public search",
+    "url": "https://www.google.com/search?q=Korea+reptile+show+Incheon+Songdo+Convensia",
+    "source_type": "open web search result",
+    "related_event_ids": [
+      "reptile-fair-incheon"
+    ],
+    "notes": "Saved public web search for Korean reptile expo monitoring.",
+    "confidence": "medium",
+    "last_checked": "2026-06-14",
+    "watchlist": false
   }
 ]

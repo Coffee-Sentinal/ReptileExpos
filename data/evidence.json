@@ -678,5 +678,51 @@
     "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
     "confidence": "low",
     "public_safe": true
+  },
+  {
+    "id": "e-reptile-fair-incheon-0",
+    "title": "Reptile Fair Incheon event listing",
+    "evidence_type": "official event page",
+    "url": "https://10times.com/e1d0-355d-zfgs-g",
+    "date_observed": "2026-06-14",
+    "date_posted": "",
+    "related_event_ids": [
+      "reptile-fair-incheon"
+    ],
+    "related_taxa_ids": [
+      "cuora-spp",
+      "varanus-prasinus-complex"
+    ],
+    "summary": "Public event listing records Reptile Fair Incheon at Songdo Convensia.",
+    "extracted_red_flags": [
+      "international visitor/vendor interest",
+      "airport-proximate venue"
+    ],
+    "analyst_notes": "Verify current edition and organizer source before operational use.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-reptile-fair-incheon-1",
+    "title": "Korea reptile import/quarantine media context",
+    "evidence_type": "journalist report",
+    "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20240507/korea-mandates-quarantine-of-imported-reptiles",
+    "date_observed": "2026-06-14",
+    "date_posted": "2024-05-07",
+    "related_event_ids": [
+      "reptile-fair-incheon"
+    ],
+    "related_taxa_ids": [
+      "cuora-spp",
+      "varanus-prasinus-complex"
+    ],
+    "summary": "Media context on Korean reptile import quarantine requirements and enforcement environment.",
+    "extracted_red_flags": [
+      "import controls context",
+      "documentation verification relevance"
+    ],
+    "analyst_notes": "Use as country-context media item, not event-specific evidence.",
+    "confidence": "medium",
+    "public_safe": true
   }
 ]

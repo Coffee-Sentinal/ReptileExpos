@@ -130,5 +130,11 @@
     "iso2": "",
     "iso3": "",
     "region": ""
+  },
+  {
+    "name": "South Korea",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "region": "East Asia"
   }
 ]

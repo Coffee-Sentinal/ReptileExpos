@@ -1258,5 +1258,131 @@
     "data_basis": "Historical/open route baseline.",
     "confidence": "low",
     "caveat": "Route-risk corridor; not live flight data."
+  },
+  {
+    "id": "r-in-reptile-fair-incheon-0",
+    "route_type": "inbound",
+    "related_event_id": "reptile-fair-incheon",
+    "origin_country_or_region": "China",
+    "origin_airport": "",
+    "transit_country_or_region": "Hong Kong",
+    "transit_airport": "",
+    "destination_country_or_region": "South Korea",
+    "destination_airport": "ICN",
+    "relevant_taxa_ids": [
+      "cuora-spp",
+      "varanus-prasinus-complex",
+      "uroplatus-spp"
+    ],
+    "timing_window": "2026-06-26 to 2026-07-10",
+    "rationale": "Airport-proximate route-risk corridor aligned to possible origin countries and expo timing.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
+    "confidence": "medium",
+    "caveat": "Route-risk corridor; not live flight data."
+  },
+  {
+    "id": "r-in-reptile-fair-incheon-1",
+    "route_type": "inbound",
+    "related_event_id": "reptile-fair-incheon",
+    "origin_country_or_region": "Indonesia",
+    "origin_airport": "",
+    "transit_country_or_region": "Singapore",
+    "transit_airport": "",
+    "destination_country_or_region": "South Korea",
+    "destination_airport": "ICN",
+    "relevant_taxa_ids": [
+      "cuora-spp",
+      "varanus-prasinus-complex",
+      "uroplatus-spp"
+    ],
+    "timing_window": "2026-06-26 to 2026-07-10",
+    "rationale": "Airport-proximate route-risk corridor aligned to possible origin countries and expo timing.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
+    "confidence": "medium",
+    "caveat": "Route-risk corridor; not live flight data."
+  },
+  {
+    "id": "r-in-reptile-fair-incheon-2",
+    "route_type": "inbound",
+    "related_event_id": "reptile-fair-incheon",
+    "origin_country_or_region": "Madagascar",
+    "origin_airport": "",
+    "transit_country_or_region": "United Arab Emirates",
+    "transit_airport": "",
+    "destination_country_or_region": "South Korea",
+    "destination_airport": "ICN",
+    "relevant_taxa_ids": [
+      "cuora-spp",
+      "varanus-prasinus-complex",
+      "uroplatus-spp"
+    ],
+    "timing_window": "2026-06-26 to 2026-07-10",
+    "rationale": "Airport-proximate route-risk corridor aligned to possible origin countries and expo timing.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
+    "confidence": "medium",
+    "caveat": "Route-risk corridor; not live flight data."
+  },
+  {
+    "id": "r-out-reptile-fair-incheon-0",
+    "route_type": "outbound",
+    "related_event_id": "reptile-fair-incheon",
+    "origin_country_or_region": "South Korea",
+    "origin_airport": "ICN",
+    "transit_country_or_region": "Japan",
+    "transit_airport": "",
+    "destination_country_or_region": "Japan",
+    "destination_airport": "",
+    "relevant_taxa_ids": [
+      "cuora-spp",
+      "lygodactylus-williamsi",
+      "varanus-prasinus-complex"
+    ],
+    "timing_window": "2026-07-10 to 2026-07-17",
+    "rationale": "Outbound consumer-region corridor aligned to post-event movement window and international market links.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
+    "confidence": "medium",
+    "caveat": "Route-risk corridor; not live flight data."
+  },
+  {
+    "id": "r-out-reptile-fair-incheon-1",
+    "route_type": "outbound",
+    "related_event_id": "reptile-fair-incheon",
+    "origin_country_or_region": "South Korea",
+    "origin_airport": "ICN",
+    "transit_country_or_region": "Hong Kong",
+    "transit_airport": "",
+    "destination_country_or_region": "Hong Kong",
+    "destination_airport": "",
+    "relevant_taxa_ids": [
+      "cuora-spp",
+      "lygodactylus-williamsi",
+      "varanus-prasinus-complex"
+    ],
+    "timing_window": "2026-07-10 to 2026-07-17",
+    "rationale": "Outbound consumer-region corridor aligned to post-event movement window and international market links.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
+    "confidence": "medium",
+    "caveat": "Route-risk corridor; not live flight data."
+  },
+  {
+    "id": "r-out-reptile-fair-incheon-2",
+    "route_type": "outbound",
+    "related_event_id": "reptile-fair-incheon",
+    "origin_country_or_region": "South Korea",
+    "origin_airport": "ICN",
+    "transit_country_or_region": "United States",
+    "transit_airport": "",
+    "destination_country_or_region": "United States",
+    "destination_airport": "",
+    "relevant_taxa_ids": [
+      "cuora-spp",
+      "lygodactylus-williamsi",
+      "varanus-prasinus-complex"
+    ],
+    "timing_window": "2026-07-10 to 2026-07-17",
+    "rationale": "Outbound consumer-region corridor aligned to post-event movement window and international market links.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
+    "confidence": "medium",
+    "caveat": "Route-risk corridor; not live flight data."
   }
 ]

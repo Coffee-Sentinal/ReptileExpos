@@ -218,5 +218,27 @@
     "latitude": 13.912,
     "longitude": 100.607,
     "airport_type": "large/medium public airport"
+  },
+  {
+    "id": "icn",
+    "name": "Incheon International Airport",
+    "iata": "ICN",
+    "icao": "RKSI",
+    "city": "Incheon",
+    "country": "South Korea",
+    "latitude": 37.4602,
+    "longitude": 126.4407,
+    "airport_type": "large public airport"
+  },
+  {
+    "id": "gmp",
+    "name": "Gimpo International Airport",
+    "iata": "GMP",
+    "icao": "RKSS",
+    "city": "Seoul",
+    "country": "South Korea",
+    "latitude": 37.5583,
+    "longitude": 126.7906,
+    "airport_type": "large public airport"
   }
 ]
