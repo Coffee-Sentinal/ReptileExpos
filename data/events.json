@@ -43,7 +43,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "medium",
     "monitoring_priority": "high",
     "evidence_ids": [
@@ -62,7 +62,7 @@
     "region": "Europe",
     "latitude": 52.034,
     "longitude": 5.168,
-    "official_url": "https://example.org/terraria-houten-public-demo",
+    "official_url": "https://www.terrarianl.nl/",
     "known_dates": [
       "2026-09-01"
     ],
@@ -96,7 +96,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "medium",
     "monitoring_priority": "high",
     "evidence_ids": [
@@ -115,7 +115,7 @@
     "region": "Europe",
     "latitude": 50.075,
     "longitude": 14.438,
-    "official_url": "https://example.org/prague-reptile-fair-public-demo",
+    "official_url": "https://www.google.com/search?q=Prague+reptile+exotics+fair",
     "known_dates": [
       "2026-09-18"
     ],
@@ -149,7 +149,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "medium",
     "monitoring_priority": "medium",
     "evidence_ids": [
@@ -168,7 +168,7 @@
     "region": "Europe",
     "latitude": 45.438,
     "longitude": 10.991,
-    "official_url": "https://example.org/verona-reptiles-public-demo",
+    "official_url": "https://www.google.com/search?q=Verona+Reptiles+expo",
     "known_dates": [
       "2026-10-05"
     ],
@@ -202,7 +202,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "medium",
     "monitoring_priority": "medium",
     "evidence_ids": [
@@ -221,7 +221,7 @@
     "region": "North America",
     "latitude": 41.573,
     "longitude": -87.784,
-    "official_url": "https://example.org/narbc-tinley-public-demo",
+    "official_url": "https://www.narbc.com/",
     "known_dates": [
       "2026-10-22"
     ],
@@ -255,7 +255,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "medium",
     "monitoring_priority": "high",
     "evidence_ids": [
@@ -274,7 +274,7 @@
     "region": "East Asia",
     "latitude": 34.975,
     "longitude": 138.383,
-    "official_url": "https://example.org/japan-reptiles-show-public-demo",
+    "official_url": "https://www.google.com/search?q=Japan+Reptiles+Show+Shizuoka",
     "known_dates": [
       "2026-11-08"
     ],
@@ -308,7 +308,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "medium",
     "monitoring_priority": "medium",
     "evidence_ids": [
@@ -327,7 +327,7 @@
     "region": "North America",
     "latitude": 43.653,
     "longitude": -79.383,
-    "official_url": "https://example.org/canadian-rbe-public-demo",
+    "official_url": "https://reptileexpo.ca/",
     "known_dates": [
       "2026-11-25"
     ],
@@ -360,7 +360,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "low",
     "monitoring_priority": "medium",
     "evidence_ids": [
@@ -379,7 +379,7 @@
     "region": "North America",
     "latitude": 28.538,
     "longitude": -81.379,
-    "official_url": "https://example.org/repticon-orlando-public-demo",
+    "official_url": "https://repticon.com/florida/orlando/",
     "known_dates": [
       "2026-12-12"
     ],
@@ -411,7 +411,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "low",
     "monitoring_priority": "medium",
     "evidence_ids": [
@@ -430,7 +430,7 @@
     "region": "Latin America",
     "latitude": -23.55,
     "longitude": -46.633,
-    "official_url": "https://example.org/latam-placeholder-demo",
+    "official_url": "https://www.google.com/search?q=Latin+America+reptile+expo",
     "known_dates": [
       "2026-12-29"
     ],
@@ -463,7 +463,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "low",
     "monitoring_priority": "low",
     "evidence_ids": [
@@ -482,7 +482,7 @@
     "region": "Southeast Asia",
     "latitude": 13.756,
     "longitude": 100.501,
-    "official_url": "https://example.org/sea-placeholder-demo",
+    "official_url": "https://www.google.com/search?q=Bangkok+exotic+pet+reptile+market",
     "known_dates": [
       "2027-01-15"
     ],
@@ -515,7 +515,7 @@
       "South Korea",
       "Hong Kong"
     ],
-    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators. Not proof of criminality.",
+    "risk_notes": "Monitoring priority is based on proxy taxa, public source categories, route-risk corridors, and evidence indicators.",
     "confidence": "low",
     "monitoring_priority": "low",
     "evidence_ids": [

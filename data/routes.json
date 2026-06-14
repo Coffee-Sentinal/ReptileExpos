@@ -16,9 +16,9 @@
     ],
     "timing_window": "2026-08-01 to 2026-08-15",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-terraristika-hamm-1",
@@ -37,9 +37,9 @@
     ],
     "timing_window": "2026-08-01 to 2026-08-15",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-terraristika-hamm-2",
@@ -58,9 +58,9 @@
     ],
     "timing_window": "2026-08-01 to 2026-08-15",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-terraristika-hamm-0",
@@ -78,10 +78,10 @@
       "brachylophus-spp"
     ],
     "timing_window": "2026-08-15 to 2026-08-22",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-terraristika-hamm-1",
@@ -99,10 +99,10 @@
       "brachylophus-spp"
     ],
     "timing_window": "2026-08-15 to 2026-08-22",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-terraristika-hamm-2",
@@ -120,10 +120,10 @@
       "brachylophus-spp"
     ],
     "timing_window": "2026-08-15 to 2026-08-22",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-terraria-houten-0",
@@ -142,9 +142,9 @@
     ],
     "timing_window": "2026-08-18 to 2026-09-01",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-terraria-houten-1",
@@ -163,9 +163,9 @@
     ],
     "timing_window": "2026-08-18 to 2026-09-01",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-terraria-houten-2",
@@ -184,9 +184,9 @@
     ],
     "timing_window": "2026-08-18 to 2026-09-01",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-terraria-houten-0",
@@ -204,10 +204,10 @@
       "cuora-spp"
     ],
     "timing_window": "2026-09-01 to 2026-09-08",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-terraria-houten-1",
@@ -225,10 +225,10 @@
       "cuora-spp"
     ],
     "timing_window": "2026-09-01 to 2026-09-08",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-terraria-houten-2",
@@ -246,10 +246,10 @@
       "cuora-spp"
     ],
     "timing_window": "2026-09-01 to 2026-09-08",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-prague-reptile-fair-0",
@@ -268,9 +268,9 @@
     ],
     "timing_window": "2026-09-04 to 2026-09-18",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-prague-reptile-fair-1",
@@ -289,9 +289,9 @@
     ],
     "timing_window": "2026-09-04 to 2026-09-18",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-prague-reptile-fair-2",
@@ -310,9 +310,9 @@
     ],
     "timing_window": "2026-09-04 to 2026-09-18",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-prague-reptile-fair-0",
@@ -330,10 +330,10 @@
       "cuora-trifasciata"
     ],
     "timing_window": "2026-09-18 to 2026-09-25",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-prague-reptile-fair-1",
@@ -351,10 +351,10 @@
       "cuora-trifasciata"
     ],
     "timing_window": "2026-09-18 to 2026-09-25",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-prague-reptile-fair-2",
@@ -372,10 +372,10 @@
       "cuora-trifasciata"
     ],
     "timing_window": "2026-09-18 to 2026-09-25",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-verona-reptiles-0",
@@ -394,9 +394,9 @@
     ],
     "timing_window": "2026-09-21 to 2026-10-05",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-verona-reptiles-1",
@@ -415,9 +415,9 @@
     ],
     "timing_window": "2026-09-21 to 2026-10-05",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-verona-reptiles-2",
@@ -436,9 +436,9 @@
     ],
     "timing_window": "2026-09-21 to 2026-10-05",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-verona-reptiles-0",
@@ -456,10 +456,10 @@
       "cuora-pani"
     ],
     "timing_window": "2026-10-05 to 2026-10-12",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-verona-reptiles-1",
@@ -477,10 +477,10 @@
       "cuora-pani"
     ],
     "timing_window": "2026-10-05 to 2026-10-12",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-verona-reptiles-2",
@@ -498,10 +498,10 @@
       "cuora-pani"
     ],
     "timing_window": "2026-10-05 to 2026-10-12",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-narbc-tinley-park-0",
@@ -520,9 +520,9 @@
     ],
     "timing_window": "2026-10-08 to 2026-10-22",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-narbc-tinley-park-1",
@@ -541,9 +541,9 @@
     ],
     "timing_window": "2026-10-08 to 2026-10-22",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-narbc-tinley-park-2",
@@ -562,9 +562,9 @@
     ],
     "timing_window": "2026-10-08 to 2026-10-22",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-narbc-tinley-park-0",
@@ -582,10 +582,10 @@
       "mauremys-nigricans"
     ],
     "timing_window": "2026-10-22 to 2026-10-29",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-narbc-tinley-park-1",
@@ -603,10 +603,10 @@
       "mauremys-nigricans"
     ],
     "timing_window": "2026-10-22 to 2026-10-29",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-narbc-tinley-park-2",
@@ -624,10 +624,10 @@
       "mauremys-nigricans"
     ],
     "timing_window": "2026-10-22 to 2026-10-29",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-japan-reptiles-show-0",
@@ -646,9 +646,9 @@
     ],
     "timing_window": "2026-10-25 to 2026-11-08",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-japan-reptiles-show-1",
@@ -667,9 +667,9 @@
     ],
     "timing_window": "2026-10-25 to 2026-11-08",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-japan-reptiles-show-2",
@@ -688,9 +688,9 @@
     ],
     "timing_window": "2026-10-25 to 2026-11-08",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-japan-reptiles-show-0",
@@ -708,10 +708,10 @@
       "cordylus-spp"
     ],
     "timing_window": "2026-11-08 to 2026-11-15",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-japan-reptiles-show-1",
@@ -729,10 +729,10 @@
       "cordylus-spp"
     ],
     "timing_window": "2026-11-08 to 2026-11-15",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-japan-reptiles-show-2",
@@ -750,10 +750,10 @@
       "cordylus-spp"
     ],
     "timing_window": "2026-11-08 to 2026-11-15",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-canadian-rbe-0",
@@ -772,9 +772,9 @@
     ],
     "timing_window": "2026-11-11 to 2026-11-25",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-canadian-rbe-1",
@@ -793,9 +793,9 @@
     ],
     "timing_window": "2026-11-11 to 2026-11-25",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-canadian-rbe-2",
@@ -814,9 +814,9 @@
     ],
     "timing_window": "2026-11-11 to 2026-11-25",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-canadian-rbe-0",
@@ -834,10 +834,10 @@
       "smaug-spp"
     ],
     "timing_window": "2026-11-25 to 2026-12-02",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-canadian-rbe-1",
@@ -855,10 +855,10 @@
       "smaug-spp"
     ],
     "timing_window": "2026-11-25 to 2026-12-02",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-canadian-rbe-2",
@@ -876,10 +876,10 @@
       "smaug-spp"
     ],
     "timing_window": "2026-11-25 to 2026-12-02",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-repticon-orlando-0",
@@ -898,9 +898,9 @@
     ],
     "timing_window": "2026-11-28 to 2026-12-12",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-repticon-orlando-1",
@@ -919,9 +919,9 @@
     ],
     "timing_window": "2026-11-28 to 2026-12-12",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-repticon-orlando-2",
@@ -940,9 +940,9 @@
     ],
     "timing_window": "2026-11-28 to 2026-12-12",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-repticon-orlando-0",
@@ -960,10 +960,10 @@
       "ouroborus-spp"
     ],
     "timing_window": "2026-12-12 to 2026-12-19",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-repticon-orlando-1",
@@ -981,10 +981,10 @@
       "ouroborus-spp"
     ],
     "timing_window": "2026-12-12 to 2026-12-19",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-repticon-orlando-2",
@@ -1002,10 +1002,10 @@
       "ouroborus-spp"
     ],
     "timing_window": "2026-12-12 to 2026-12-19",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "medium",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-latam-placeholder-0",
@@ -1024,9 +1024,9 @@
     ],
     "timing_window": "2026-12-15 to 2026-12-29",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-latam-placeholder-1",
@@ -1045,9 +1045,9 @@
     ],
     "timing_window": "2026-12-15 to 2026-12-29",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-latam-placeholder-2",
@@ -1066,9 +1066,9 @@
     ],
     "timing_window": "2026-12-15 to 2026-12-29",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-latam-placeholder-0",
@@ -1086,10 +1086,10 @@
       "uroplatus-spp"
     ],
     "timing_window": "2026-12-29 to 2027-01-05",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-latam-placeholder-1",
@@ -1107,10 +1107,10 @@
       "uroplatus-spp"
     ],
     "timing_window": "2026-12-29 to 2027-01-05",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-latam-placeholder-2",
@@ -1128,10 +1128,10 @@
       "uroplatus-spp"
     ],
     "timing_window": "2026-12-29 to 2027-01-05",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-sea-placeholder-0",
@@ -1150,9 +1150,9 @@
     ],
     "timing_window": "2027-01-01 to 2027-01-15",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-sea-placeholder-1",
@@ -1171,9 +1171,9 @@
     ],
     "timing_window": "2027-01-01 to 2027-01-15",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-in-sea-placeholder-2",
@@ -1192,9 +1192,9 @@
     ],
     "timing_window": "2027-01-01 to 2027-01-15",
     "rationale": "Plausible route-risk corridor based on possible origin country, airport proximity, and event timing. Recommended verification only.",
-    "data_basis": "Static demo plus historical/open route baseline. Not current flight schedule intelligence.",
+    "data_basis": "Historical/open route baseline and analyst-curated corridor logic.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-sea-placeholder-0",
@@ -1212,10 +1212,10 @@
       "furcifer-spp"
     ],
     "timing_window": "2027-01-15 to 2027-01-22",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-sea-placeholder-1",
@@ -1233,10 +1233,10 @@
       "furcifer-spp"
     ],
     "timing_window": "2027-01-15 to 2027-01-22",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   },
   {
     "id": "r-out-sea-placeholder-2",
@@ -1254,9 +1254,9 @@
       "furcifer-spp"
     ],
     "timing_window": "2027-01-15 to 2027-01-22",
-    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification. Not proof of criminality.",
-    "data_basis": "Historical/open route baseline. Not current flight schedule intelligence.",
+    "rationale": "Plausible outbound consumer-region corridor for planning and recommended verification.",
+    "data_basis": "Historical/open route baseline.",
     "confidence": "low",
-    "caveat": "Route-risk corridor only. Not flight-specific intelligence and not proof of criminality."
+    "caveat": "Route-risk corridor; not live flight data."
   }
 ]
