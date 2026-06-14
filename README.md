@@ -1,6 +1,6 @@
 # ExpoWatch
 
-ExpoWatch is a simple static HTML/CSS/JavaScript dashboard for event-risk intelligence organization around reptile and exotics expo monitoring priorities. It maps expo locations, event dates, linked public websites, high-risk proxy taxa, possible origin countries, route-risk corridors, evidence examples, and printable lead packages.
+ExpoWatch is a simple static HTML/CSS/JavaScript dashboard for reptile and exotics expo monitoring priorities. The landing page is now the map: click a professional expo point to preview dates, score, source/destination countries, priority species, and profile actions.
 
 ## What this app is
 - A single-page GitHub Pages dashboard using `index.html`, `style.css`, `app.js`, and `data/*.json`.
@@ -84,10 +84,12 @@ Open the “Evidence & News Monitor” tab, enter a keyword and optional event/s
 Open the “High-Risk Taxa” tab and click “Check GBIF taxonomy/range” on a taxon card. GBIF results provide biological context and taxonomy/range references.
 
 ## Risk scoring and live-reference tools
+- The main workflow is Map → Event Profile → Annual Calendar / Species Watchlist / Sources & Flights.
 - Event scoring uses explicit risk-indicator fields in `data/events.json`, public media/evidence counts, platform/source links, route corridors, and a small taxon-risk bonus. Click the “ⓘ How score is generated” button in any event profile to review the weights.
-- Taxon scoring uses IUCN category, CITES Appendix, EU Annex, and range-state protection fields.
-- The Route-Risk tab includes public flight/airline lookup links for selected event airports through free web widgets such as Flightradar24 and FlightConnections.
-- The Evidence & News Monitor includes GDELT search plus Google News RSS links for each event country/name.
+- Taxon scoring uses IUCN category, CITES Appendix, EU Annex, and range-state protection fields. Species cards link out to iNaturalist image searches and Reptile Database taxon pages/searches instead of relying on weak bundled photos.
+- The Sources & Flights tab includes public airport widgets and dynamic Google airline searches built from origin countries, event country, airport context, and event-window dates.
+- The Sources & Flights tab also includes GDELT search plus Google News RSS links for each event country/name.
+- Event dates should be reviewed weekly by editing `known_dates` in `data/events.json`; the annual calendar and airline searches update from those dates automatically.
 
 ## Data editor / import-export
 The editor tab lets you add an evidence draft in browser memory, save edits to `localStorage`, export edited JSON, import JSON, or reset to bundled demo data. It does not write back to GitHub.

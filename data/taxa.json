@@ -26,7 +26,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lanthanotus%20borneensis.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Lanthanotus+borneensis",
     "iucn_category": "EN",
-    "range_state_protection": "Protected/restricted in parts of native range"
+    "range_state_protection": "Protected/restricted in parts of native range",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Lanthanotus%20borneensis",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/species?genus=Lanthanotus&species=borneensis"
   },
   {
     "id": "naultinus-spp",
@@ -52,7 +54,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Naultinus%20elegans.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Naultinus+spp.",
     "iucn_category": "VU",
-    "range_state_protection": "Strictly protected in New Zealand"
+    "range_state_protection": "Strictly protected in New Zealand",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Naultinus",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Naultinus"
   },
   {
     "id": "brachylophus-spp",
@@ -78,7 +82,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Brachylophus%20fasciatus.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Brachylophus+spp.",
     "iucn_category": "EN",
-    "range_state_protection": "Protected in Fiji"
+    "range_state_protection": "Protected in Fiji",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Brachylophus",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Brachylophus"
   },
   {
     "id": "cuora-spp",
@@ -111,7 +117,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuora%20amboinensis.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Cuora+spp.",
     "iucn_category": "CR/EN",
-    "range_state_protection": "Protected/restricted across parts of range"
+    "range_state_protection": "Protected/restricted across parts of range",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Cuora",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Cuora"
   },
   {
     "id": "cuora-trifasciata",
@@ -141,7 +149,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuora%20trifasciata.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Cuora+trifasciata",
     "iucn_category": "CR",
-    "range_state_protection": "Protected/restricted in range states"
+    "range_state_protection": "Protected/restricted in range states",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Cuora%20trifasciata",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/species?genus=Cuora&species=trifasciata"
   },
   {
     "id": "cuora-pani",
@@ -166,7 +176,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cuora%20pani.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Cuora+pani",
     "iucn_category": "CR",
-    "range_state_protection": "Protected/restricted in China"
+    "range_state_protection": "Protected/restricted in China",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Cuora%20pani",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/species?genus=Cuora&species=pani"
   },
   {
     "id": "mauremys-nigricans",
@@ -194,7 +206,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mauremys%20nigricans.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Mauremys+nigricans",
     "iucn_category": "EN",
-    "range_state_protection": "Protected/restricted in parts of range"
+    "range_state_protection": "Protected/restricted in parts of range",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Mauremys%20nigricans",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/species?genus=Mauremys&species=nigricans"
   },
   {
     "id": "cordylus-spp",
@@ -222,7 +236,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cordylus%20cordylus.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Cordylus+spp.",
     "iucn_category": "LC/VU",
-    "range_state_protection": "Permit controls in South Africa/Namibia"
+    "range_state_protection": "Permit controls in South Africa/Namibia",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Cordylus",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Cordylus"
   },
   {
     "id": "smaug-spp",
@@ -248,7 +264,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Smaug%20giganteus.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Smaug+spp.",
     "iucn_category": "VU",
-    "range_state_protection": "Protected/permit-controlled in South Africa"
+    "range_state_protection": "Protected/permit-controlled in South Africa",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Smaug",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Smaug"
   },
   {
     "id": "ouroborus-spp",
@@ -274,7 +292,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ouroborus%20cataphractus.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ouroborus+spp.",
     "iucn_category": "VU",
-    "range_state_protection": "Protected/permit-controlled in South Africa"
+    "range_state_protection": "Protected/permit-controlled in South Africa",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Ouroborus",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Ouroborus"
   },
   {
     "id": "uroplatus-spp",
@@ -300,7 +320,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uroplatus%20fimbriatus.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Uroplatus+spp.",
     "iucn_category": "LC/VU",
-    "range_state_protection": "Export controls in Madagascar"
+    "range_state_protection": "Export controls in Madagascar",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Uroplatus",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Uroplatus"
   },
   {
     "id": "furcifer-spp",
@@ -326,7 +348,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Furcifer%20pardalis.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Furcifer+spp.",
     "iucn_category": "LC/VU",
-    "range_state_protection": "Export controls in Madagascar"
+    "range_state_protection": "Export controls in Madagascar",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Furcifer",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Furcifer"
   },
   {
     "id": "varanus-prasinus-complex",
@@ -354,7 +378,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varanus%20prasinus.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Varanus+prasinus+complex",
     "iucn_category": "LC",
-    "range_state_protection": "Permit controls in Indonesia/PNG"
+    "range_state_protection": "Permit controls in Indonesia/PNG",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Varanus%20prasinus",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=prasinus"
   },
   {
     "id": "varanus-salvadorii",
@@ -381,7 +407,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Varanus%20salvadorii.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Varanus+salvadorii",
     "iucn_category": "LC",
-    "range_state_protection": "Permit controls in Indonesia/PNG"
+    "range_state_protection": "Permit controls in Indonesia/PNG",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Varanus%20salvadorii",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/species?genus=Varanus&species=salvadorii"
   },
   {
     "id": "cyclura-spp",
@@ -407,7 +435,9 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclura%20cornuta.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Cyclura+spp.",
     "iucn_category": "VU/EN",
-    "range_state_protection": "Protected in multiple island range states"
+    "range_state_protection": "Protected in multiple island range states",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Cyclura",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/advanced_search?submit=Search&taxon=Cyclura"
   },
   {
     "id": "lygodactylus-williamsi",
@@ -433,6 +463,8 @@
     "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lygodactylus%20williamsi.jpg",
     "image_source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Lygodactylus+williamsi",
     "iucn_category": "CR",
-    "range_state_protection": "Protected/restricted in Tanzania"
+    "range_state_protection": "Protected/restricted in Tanzania",
+    "inaturalist_url": "https://www.inaturalist.org/taxa/search?q=Lygodactylus%20williamsi",
+    "reptile_database_url": "https://reptile-database.reptarium.cz/species?genus=Lygodactylus&species=williamsi"
   }
 ]
