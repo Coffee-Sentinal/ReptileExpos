@@ -1,0 +1,362 @@
+[
+  {
+    "id": "web-event-terraristika-hamm-0",
+    "name": "Terraristika Hamm official event site",
+    "url": "https://www.terraristikahamm.de/",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-terraristika-hamm-1",
+    "name": "Terraristika Hamm seller forum",
+    "url": "https://example.org/public-demo/event-terraristika-hamm/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-terraristika-hamm-2",
+    "name": "Terraristika Hamm classified advert site",
+    "url": "https://example.org/public-demo/event-terraristika-hamm/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-terraristika-hamm-3",
+    "name": "Terraristika Hamm social media group",
+    "url": "https://example.org/public-demo/event-terraristika-hamm/3",
+    "type": "social media group",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-terraria-houten-0",
+    "name": "Terraria Houten official event site",
+    "url": "https://example.org/terraria-houten-public-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-terraria-houten-1",
+    "name": "Terraria Houten seller forum",
+    "url": "https://example.org/public-demo/event-terraria-houten/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-terraria-houten-2",
+    "name": "Terraria Houten classified advert site",
+    "url": "https://example.org/public-demo/event-terraria-houten/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-terraria-houten-3",
+    "name": "Terraria Houten social media group",
+    "url": "https://example.org/public-demo/event-terraria-houten/3",
+    "type": "social media group",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-prague-reptile-fair-0",
+    "name": "Prague reptile/exotics fair official event site",
+    "url": "https://example.org/prague-reptile-fair-public-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-prague-reptile-fair-1",
+    "name": "Prague reptile/exotics fair seller forum",
+    "url": "https://example.org/public-demo/event-prague-reptile-fair/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-prague-reptile-fair-2",
+    "name": "Prague reptile/exotics fair classified advert site",
+    "url": "https://example.org/public-demo/event-prague-reptile-fair/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-prague-reptile-fair-3",
+    "name": "Prague reptile/exotics fair social media group",
+    "url": "https://example.org/public-demo/event-prague-reptile-fair/3",
+    "type": "social media group",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-verona-reptiles-0",
+    "name": "Verona Reptiles official event site",
+    "url": "https://example.org/verona-reptiles-public-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-verona-reptiles-1",
+    "name": "Verona Reptiles seller forum",
+    "url": "https://example.org/public-demo/event-verona-reptiles/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-verona-reptiles-2",
+    "name": "Verona Reptiles classified advert site",
+    "url": "https://example.org/public-demo/event-verona-reptiles/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-verona-reptiles-3",
+    "name": "Verona Reptiles social media group",
+    "url": "https://example.org/public-demo/event-verona-reptiles/3",
+    "type": "social media group",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-narbc-tinley-0",
+    "name": "NARBC Tinley Park official event site",
+    "url": "https://example.org/narbc-tinley-public-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-narbc-tinley-1",
+    "name": "NARBC Tinley Park seller forum",
+    "url": "https://example.org/public-demo/event-narbc-tinley/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-narbc-tinley-2",
+    "name": "NARBC Tinley Park classified advert site",
+    "url": "https://example.org/public-demo/event-narbc-tinley/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-narbc-tinley-3",
+    "name": "NARBC Tinley Park social media group",
+    "url": "https://example.org/public-demo/event-narbc-tinley/3",
+    "type": "social media group",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-japan-reptiles-show-0",
+    "name": "Japan Reptiles Show official event site",
+    "url": "https://example.org/japan-reptiles-show-public-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-japan-reptiles-show-1",
+    "name": "Japan Reptiles Show seller forum",
+    "url": "https://example.org/public-demo/event-japan-reptiles-show/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-japan-reptiles-show-2",
+    "name": "Japan Reptiles Show classified advert site",
+    "url": "https://example.org/public-demo/event-japan-reptiles-show/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-japan-reptiles-show-3",
+    "name": "Japan Reptiles Show social media group",
+    "url": "https://example.org/public-demo/event-japan-reptiles-show/3",
+    "type": "social media group",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-canadian-rbe-0",
+    "name": "Canadian Reptile Breeders Expo official event site",
+    "url": "https://example.org/canadian-rbe-public-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-canadian-rbe-1",
+    "name": "Canadian Reptile Breeders Expo seller forum",
+    "url": "https://example.org/public-demo/event-canadian-rbe/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-canadian-rbe-2",
+    "name": "Canadian Reptile Breeders Expo classified advert site",
+    "url": "https://example.org/public-demo/event-canadian-rbe/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-repticon-orlando-0",
+    "name": "Repticon Orlando official event site",
+    "url": "https://example.org/repticon-orlando-public-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "high",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-repticon-orlando-1",
+    "name": "Repticon Orlando seller forum",
+    "url": "https://example.org/public-demo/event-repticon-orlando/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-repticon-orlando-2",
+    "name": "Repticon Orlando classified advert site",
+    "url": "https://example.org/public-demo/event-repticon-orlando/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "medium",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-latam-placeholder-0",
+    "name": "Latin America reptile/exotics expo placeholder official event site",
+    "url": "https://example.org/latam-placeholder-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "low",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-latam-placeholder-1",
+    "name": "Latin America reptile/exotics expo placeholder seller forum",
+    "url": "https://example.org/public-demo/event-latam-placeholder/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "low",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-latam-placeholder-2",
+    "name": "Latin America reptile/exotics expo placeholder classified advert site",
+    "url": "https://example.org/public-demo/event-latam-placeholder/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "low",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-sea-placeholder-0",
+    "name": "Southeast Asia exotic pet/reptile market placeholder official event site",
+    "url": "https://example.org/sea-placeholder-demo",
+    "type": "official event site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "low",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-sea-placeholder-1",
+    "name": "Southeast Asia exotic pet/reptile market placeholder seller forum",
+    "url": "https://example.org/public-demo/event-sea-placeholder/1",
+    "type": "seller forum",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "low",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  },
+  {
+    "id": "web-event-sea-placeholder-2",
+    "name": "Southeast Asia exotic pet/reptile market placeholder classified advert site",
+    "url": "https://example.org/public-demo/event-sea-placeholder/2",
+    "type": "classified advert site",
+    "notes": "Public-safe seed/demo source. Analysts should replace with lawful public OSINT references only.",
+    "confidence": "low",
+    "lastCheckedDate": "2026-06-01",
+    "publicSafe": true
+  }
+]

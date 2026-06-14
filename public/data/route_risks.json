@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "route-in-event-terraristika-hamm-0",
+    "eventId": "event-terraristika-hamm",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-dus",
+    "destinationCity": "Hamm",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-08-01",
+    "timingWindowEnd": "2026-08-15",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-terraristika-hamm-1",
+    "eventId": "event-terraristika-hamm",
+    "direction": "inbound",
+    "originCountry": "Fiji",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-dus",
+    "destinationCity": "Hamm",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-08-01",
+    "timingWindowEnd": "2026-08-15",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-terraristika-hamm-2",
+    "eventId": "event-terraristika-hamm",
+    "direction": "inbound",
+    "originCountry": "Indonesia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-dus",
+    "destinationCity": "Hamm",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-08-01",
+    "timingWindowEnd": "2026-08-15",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-terraristika-hamm-0",
+    "eventId": "event-terraristika-hamm",
+    "direction": "outbound",
+    "originCountry": "Germany",
+    "originRegion": "Europe",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-dus",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-08-15",
+    "timingWindowEnd": "2026-08-22",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-terraristika-hamm-1",
+    "eventId": "event-terraristika-hamm",
+    "direction": "outbound",
+    "originCountry": "Germany",
+    "originRegion": "Europe",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-dus",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-08-15",
+    "timingWindowEnd": "2026-08-22",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-terraristika-hamm-2",
+    "eventId": "event-terraristika-hamm",
+    "direction": "outbound",
+    "originCountry": "Germany",
+    "originRegion": "Europe",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-dus",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-08-15",
+    "timingWindowEnd": "2026-08-22",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-terraria-houten-0",
+    "eventId": "event-terraria-houten",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-ams",
+    "destinationCity": "Houten",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2026-08-18",
+    "timingWindowEnd": "2026-09-01",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-terraria-houten-1",
+    "eventId": "event-terraria-houten",
+    "direction": "inbound",
+    "originCountry": "Fiji",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-ams",
+    "destinationCity": "Houten",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2026-08-18",
+    "timingWindowEnd": "2026-09-01",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-terraria-houten-2",
+    "eventId": "event-terraria-houten",
+    "direction": "inbound",
+    "originCountry": "Indonesia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-ams",
+    "destinationCity": "Houten",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2026-08-18",
+    "timingWindowEnd": "2026-09-01",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-terraria-houten-0",
+    "eventId": "event-terraria-houten",
+    "direction": "outbound",
+    "originCountry": "Netherlands",
+    "originRegion": "Europe",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-ams",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2026-09-01",
+    "timingWindowEnd": "2026-09-08",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-terraria-houten-1",
+    "eventId": "event-terraria-houten",
+    "direction": "outbound",
+    "originCountry": "Netherlands",
+    "originRegion": "Europe",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-ams",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2026-09-01",
+    "timingWindowEnd": "2026-09-08",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-terraria-houten-2",
+    "eventId": "event-terraria-houten",
+    "direction": "outbound",
+    "originCountry": "Netherlands",
+    "originRegion": "Europe",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-ams",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2026-09-01",
+    "timingWindowEnd": "2026-09-08",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-prague-reptile-fair-0",
+    "eventId": "event-prague-reptile-fair",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-prg",
+    "destinationCity": "Prague",
+    "relevantTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "timingWindowStart": "2026-09-04",
+    "timingWindowEnd": "2026-09-18",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-prague-reptile-fair-1",
+    "eventId": "event-prague-reptile-fair",
+    "direction": "inbound",
+    "originCountry": "Fiji",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-prg",
+    "destinationCity": "Prague",
+    "relevantTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "timingWindowStart": "2026-09-04",
+    "timingWindowEnd": "2026-09-18",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-prague-reptile-fair-2",
+    "eventId": "event-prague-reptile-fair",
+    "direction": "inbound",
+    "originCountry": "Indonesia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-prg",
+    "destinationCity": "Prague",
+    "relevantTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "timingWindowStart": "2026-09-04",
+    "timingWindowEnd": "2026-09-18",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-prague-reptile-fair-0",
+    "eventId": "event-prague-reptile-fair",
+    "direction": "outbound",
+    "originCountry": "Czech Republic",
+    "originRegion": "Europe",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-prg",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "timingWindowStart": "2026-09-18",
+    "timingWindowEnd": "2026-09-25",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-prague-reptile-fair-1",
+    "eventId": "event-prague-reptile-fair",
+    "direction": "outbound",
+    "originCountry": "Czech Republic",
+    "originRegion": "Europe",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-prg",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "timingWindowStart": "2026-09-18",
+    "timingWindowEnd": "2026-09-25",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-prague-reptile-fair-2",
+    "eventId": "event-prague-reptile-fair",
+    "direction": "outbound",
+    "originCountry": "Czech Republic",
+    "originRegion": "Europe",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-prg",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata"
+    ],
+    "timingWindowStart": "2026-09-18",
+    "timingWindowEnd": "2026-09-25",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-verona-reptiles-0",
+    "eventId": "event-verona-reptiles",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-vrn",
+    "destinationCity": "Verona",
+    "relevantTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "timingWindowStart": "2026-09-21",
+    "timingWindowEnd": "2026-10-05",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-verona-reptiles-1",
+    "eventId": "event-verona-reptiles",
+    "direction": "inbound",
+    "originCountry": "Indonesia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-vrn",
+    "destinationCity": "Verona",
+    "relevantTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "timingWindowStart": "2026-09-21",
+    "timingWindowEnd": "2026-10-05",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-verona-reptiles-2",
+    "eventId": "event-verona-reptiles",
+    "direction": "inbound",
+    "originCountry": "Laos",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-vrn",
+    "destinationCity": "Verona",
+    "relevantTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "timingWindowStart": "2026-09-21",
+    "timingWindowEnd": "2026-10-05",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-verona-reptiles-0",
+    "eventId": "event-verona-reptiles",
+    "direction": "outbound",
+    "originCountry": "Italy",
+    "originRegion": "Europe",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-vrn",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "timingWindowStart": "2026-10-05",
+    "timingWindowEnd": "2026-10-12",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-verona-reptiles-1",
+    "eventId": "event-verona-reptiles",
+    "direction": "outbound",
+    "originCountry": "Italy",
+    "originRegion": "Europe",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-vrn",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "timingWindowStart": "2026-10-05",
+    "timingWindowEnd": "2026-10-12",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-verona-reptiles-2",
+    "eventId": "event-verona-reptiles",
+    "direction": "outbound",
+    "originCountry": "Italy",
+    "originRegion": "Europe",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-vrn",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-cuora-spp",
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani"
+    ],
+    "timingWindowStart": "2026-10-05",
+    "timingWindowEnd": "2026-10-12",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-narbc-tinley-0",
+    "eventId": "event-narbc-tinley",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-ord",
+    "destinationCity": "Tinley Park, Illinois",
+    "relevantTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "timingWindowStart": "2026-10-08",
+    "timingWindowEnd": "2026-10-22",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-narbc-tinley-1",
+    "eventId": "event-narbc-tinley",
+    "direction": "inbound",
+    "originCountry": "Laos",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-ord",
+    "destinationCity": "Tinley Park, Illinois",
+    "relevantTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "timingWindowStart": "2026-10-08",
+    "timingWindowEnd": "2026-10-22",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-narbc-tinley-2",
+    "eventId": "event-narbc-tinley",
+    "direction": "inbound",
+    "originCountry": "Namibia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-ord",
+    "destinationCity": "Tinley Park, Illinois",
+    "relevantTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "timingWindowStart": "2026-10-08",
+    "timingWindowEnd": "2026-10-22",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-narbc-tinley-0",
+    "eventId": "event-narbc-tinley",
+    "direction": "outbound",
+    "originCountry": "United States",
+    "originRegion": "North America",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-ord",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "timingWindowStart": "2026-10-22",
+    "timingWindowEnd": "2026-10-29",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-narbc-tinley-1",
+    "eventId": "event-narbc-tinley",
+    "direction": "outbound",
+    "originCountry": "United States",
+    "originRegion": "North America",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-ord",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "timingWindowStart": "2026-10-22",
+    "timingWindowEnd": "2026-10-29",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-narbc-tinley-2",
+    "eventId": "event-narbc-tinley",
+    "direction": "outbound",
+    "originCountry": "United States",
+    "originRegion": "North America",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-ord",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-cuora-trifasciata",
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans"
+    ],
+    "timingWindowStart": "2026-10-22",
+    "timingWindowEnd": "2026-10-29",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-japan-reptiles-show-0",
+    "eventId": "event-japan-reptiles-show",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-hnd",
+    "destinationCity": "Shizuoka",
+    "relevantTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "timingWindowStart": "2026-10-25",
+    "timingWindowEnd": "2026-11-08",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-japan-reptiles-show-1",
+    "eventId": "event-japan-reptiles-show",
+    "direction": "inbound",
+    "originCountry": "Namibia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-hnd",
+    "destinationCity": "Shizuoka",
+    "relevantTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "timingWindowStart": "2026-10-25",
+    "timingWindowEnd": "2026-11-08",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-japan-reptiles-show-2",
+    "eventId": "event-japan-reptiles-show",
+    "direction": "inbound",
+    "originCountry": "South Africa",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-hnd",
+    "destinationCity": "Shizuoka",
+    "relevantTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "timingWindowStart": "2026-10-25",
+    "timingWindowEnd": "2026-11-08",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-japan-reptiles-show-0",
+    "eventId": "event-japan-reptiles-show",
+    "direction": "outbound",
+    "originCountry": "Japan",
+    "originRegion": "East Asia",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-hnd",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "timingWindowStart": "2026-11-08",
+    "timingWindowEnd": "2026-11-15",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-japan-reptiles-show-1",
+    "eventId": "event-japan-reptiles-show",
+    "direction": "outbound",
+    "originCountry": "Japan",
+    "originRegion": "East Asia",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-hnd",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "timingWindowStart": "2026-11-08",
+    "timingWindowEnd": "2026-11-15",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-japan-reptiles-show-2",
+    "eventId": "event-japan-reptiles-show",
+    "direction": "outbound",
+    "originCountry": "Japan",
+    "originRegion": "East Asia",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-hnd",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-cuora-pani",
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp"
+    ],
+    "timingWindowStart": "2026-11-08",
+    "timingWindowEnd": "2026-11-15",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-canadian-rbe-0",
+    "eventId": "event-canadian-rbe",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-yyz",
+    "destinationCity": "Toronto area",
+    "relevantTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "timingWindowStart": "2026-11-11",
+    "timingWindowEnd": "2026-11-25",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-canadian-rbe-1",
+    "eventId": "event-canadian-rbe",
+    "direction": "inbound",
+    "originCountry": "Madagascar",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-yyz",
+    "destinationCity": "Toronto area",
+    "relevantTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "timingWindowStart": "2026-11-11",
+    "timingWindowEnd": "2026-11-25",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-canadian-rbe-2",
+    "eventId": "event-canadian-rbe",
+    "direction": "inbound",
+    "originCountry": "Namibia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-yyz",
+    "destinationCity": "Toronto area",
+    "relevantTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "timingWindowStart": "2026-11-11",
+    "timingWindowEnd": "2026-11-25",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-canadian-rbe-0",
+    "eventId": "event-canadian-rbe",
+    "direction": "outbound",
+    "originCountry": "Canada",
+    "originRegion": "North America",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-yyz",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "timingWindowStart": "2026-11-25",
+    "timingWindowEnd": "2026-12-02",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-canadian-rbe-1",
+    "eventId": "event-canadian-rbe",
+    "direction": "outbound",
+    "originCountry": "Canada",
+    "originRegion": "North America",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-yyz",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "timingWindowStart": "2026-11-25",
+    "timingWindowEnd": "2026-12-02",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-canadian-rbe-2",
+    "eventId": "event-canadian-rbe",
+    "direction": "outbound",
+    "originCountry": "Canada",
+    "originRegion": "North America",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-yyz",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-mauremys-nigricans",
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp"
+    ],
+    "timingWindowStart": "2026-11-25",
+    "timingWindowEnd": "2026-12-02",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-repticon-orlando-0",
+    "eventId": "event-repticon-orlando",
+    "direction": "inbound",
+    "originCountry": "Madagascar",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-mco",
+    "destinationCity": "Orlando, Florida",
+    "relevantTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp",
+      "taxon-ouroborus-spp"
+    ],
+    "timingWindowStart": "2026-11-28",
+    "timingWindowEnd": "2026-12-12",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-repticon-orlando-1",
+    "eventId": "event-repticon-orlando",
+    "direction": "inbound",
+    "originCountry": "Namibia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-mco",
+    "destinationCity": "Orlando, Florida",
+    "relevantTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp",
+      "taxon-ouroborus-spp"
+    ],
+    "timingWindowStart": "2026-11-28",
+    "timingWindowEnd": "2026-12-12",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-repticon-orlando-2",
+    "eventId": "event-repticon-orlando",
+    "direction": "inbound",
+    "originCountry": "South Africa",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-mco",
+    "destinationCity": "Orlando, Florida",
+    "relevantTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp",
+      "taxon-ouroborus-spp"
+    ],
+    "timingWindowStart": "2026-11-28",
+    "timingWindowEnd": "2026-12-12",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-repticon-orlando-0",
+    "eventId": "event-repticon-orlando",
+    "direction": "outbound",
+    "originCountry": "United States",
+    "originRegion": "North America",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-mco",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp",
+      "taxon-ouroborus-spp"
+    ],
+    "timingWindowStart": "2026-12-12",
+    "timingWindowEnd": "2026-12-19",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-repticon-orlando-1",
+    "eventId": "event-repticon-orlando",
+    "direction": "outbound",
+    "originCountry": "United States",
+    "originRegion": "North America",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-mco",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp",
+      "taxon-ouroborus-spp"
+    ],
+    "timingWindowStart": "2026-12-12",
+    "timingWindowEnd": "2026-12-19",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-repticon-orlando-2",
+    "eventId": "event-repticon-orlando",
+    "direction": "outbound",
+    "originCountry": "United States",
+    "originRegion": "North America",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-mco",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-cordylus-spp",
+      "taxon-smaug-spp",
+      "taxon-ouroborus-spp"
+    ],
+    "timingWindowStart": "2026-12-12",
+    "timingWindowEnd": "2026-12-19",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "medium",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-latam-placeholder-0",
+    "eventId": "event-latam-placeholder",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-gru",
+    "destinationCity": "São Paulo",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-12-15",
+    "timingWindowEnd": "2026-12-29",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-latam-placeholder-1",
+    "eventId": "event-latam-placeholder",
+    "direction": "inbound",
+    "originCountry": "Fiji",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-gru",
+    "destinationCity": "São Paulo",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-12-15",
+    "timingWindowEnd": "2026-12-29",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-latam-placeholder-2",
+    "eventId": "event-latam-placeholder",
+    "direction": "inbound",
+    "originCountry": "Indonesia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-gru",
+    "destinationCity": "São Paulo",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-12-15",
+    "timingWindowEnd": "2026-12-29",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-latam-placeholder-0",
+    "eventId": "event-latam-placeholder",
+    "direction": "outbound",
+    "originCountry": "Brazil",
+    "originRegion": "Latin America",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-gru",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-12-29",
+    "timingWindowEnd": "2027-01-05",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-latam-placeholder-1",
+    "eventId": "event-latam-placeholder",
+    "direction": "outbound",
+    "originCountry": "Brazil",
+    "originRegion": "Latin America",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-gru",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-12-29",
+    "timingWindowEnd": "2027-01-05",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-latam-placeholder-2",
+    "eventId": "event-latam-placeholder",
+    "direction": "outbound",
+    "originCountry": "Brazil",
+    "originRegion": "Latin America",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-gru",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-lanthanotus-borneensis",
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp"
+    ],
+    "timingWindowStart": "2026-12-29",
+    "timingWindowEnd": "2027-01-05",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-sea-placeholder-0",
+    "eventId": "event-sea-placeholder",
+    "direction": "inbound",
+    "originCountry": "China",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Singapore",
+    "destinationAirportId": "airport-bkk",
+    "destinationCity": "Bangkok",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2027-01-01",
+    "timingWindowEnd": "2027-01-15",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-sea-placeholder-1",
+    "eventId": "event-sea-placeholder",
+    "direction": "inbound",
+    "originCountry": "Fiji",
+    "originRegion": "possible source region",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-bkk",
+    "destinationCity": "Bangkok",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2027-01-01",
+    "timingWindowEnd": "2027-01-15",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-in-event-sea-placeholder-2",
+    "eventId": "event-sea-placeholder",
+    "direction": "inbound",
+    "originCountry": "Indonesia",
+    "originRegion": "possible source region",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-bkk",
+    "destinationCity": "Bangkok",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2027-01-01",
+    "timingWindowEnd": "2027-01-15",
+    "rationale": "Route-risk intersection based on possible origin country, nearby airport, and static/demo corridor logic. Recommended verification only.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-sea-placeholder-0",
+    "eventId": "event-sea-placeholder",
+    "direction": "outbound",
+    "originCountry": "Thailand",
+    "originRegion": "Southeast Asia",
+    "transitHubCountry": "Netherlands",
+    "destinationAirportId": "airport-bkk",
+    "destinationCity": "EU internal movements",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2027-01-15",
+    "timingWindowEnd": "2027-01-22",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-sea-placeholder-1",
+    "eventId": "event-sea-placeholder",
+    "direction": "outbound",
+    "originCountry": "Thailand",
+    "originRegion": "Southeast Asia",
+    "transitHubCountry": "United Arab Emirates",
+    "destinationAirportId": "airport-bkk",
+    "destinationCity": "Japan",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2027-01-15",
+    "timingWindowEnd": "2027-01-22",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  },
+  {
+    "id": "route-out-event-sea-placeholder-2",
+    "eventId": "event-sea-placeholder",
+    "direction": "outbound",
+    "originCountry": "Thailand",
+    "originRegion": "Southeast Asia",
+    "transitHubCountry": "Germany",
+    "destinationAirportId": "airport-bkk",
+    "destinationCity": "South Korea",
+    "relevantTaxaIds": [
+      "taxon-naultinus-spp",
+      "taxon-brachylophus-spp",
+      "taxon-cuora-spp"
+    ],
+    "timingWindowStart": "2027-01-15",
+    "timingWindowEnd": "2027-01-22",
+    "rationale": "Static outbound consumer-region feasibility indicator for planning and recommended verification. Not current schedules or proof of criminality.",
+    "confidence": "low",
+    "caveat": "Route-risk intersection only. Not flight-specific intelligence."
+  }
+]
