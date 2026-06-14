@@ -1,0 +1,4 @@
+import type {MonitoringWindow} from './types';
+const day=86400000; const iso=(d:Date)=>d.toISOString().slice(0,10); const add=(d:Date,n:number)=>new Date(d.getTime()+n*day);
+export function monitoringWindows(startDate:string):MonitoringWindow[]{const t=new Date(`${startDate}T00:00:00Z`); const now=new Date(); const rows=[['pre','Pre-event online monitoring',add(t,-56),add(t,-14)],['inbound','Inbound route-risk window',add(t,-14),t],['event','Event window',t,add(t,2)],['outbound','Outbound route-risk window',t,add(t,7)],['post','Post-event online monitoring',add(t,1),add(t,30)]] as const; return rows.map(([key,label,start,end])=>({key,label,start:iso(start),end:iso(end),status:now<start?'upcoming':now>end?'past':'active'}));}
+export function currentWindow(startDate:string){return monitoringWindows(startDate).find(w=>w.status==='active')?.label||'No active monitoring window'}

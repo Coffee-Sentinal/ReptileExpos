@@ -1,0 +1,242 @@
+[
+  {
+    "id": "airport-dus",
+    "iata": "DUS",
+    "name": "Düsseldorf Airport",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "latitude": 51.289,
+    "longitude": 6.767,
+    "eventIds": [
+      "event-terraristika-hamm"
+    ]
+  },
+  {
+    "id": "airport-fra",
+    "iata": "FRA",
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "latitude": 50.037,
+    "longitude": 8.562,
+    "eventIds": [
+      "event-terraristika-hamm"
+    ]
+  },
+  {
+    "id": "airport-ams",
+    "iata": "AMS",
+    "name": "Amsterdam Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "latitude": 52.31,
+    "longitude": 4.768,
+    "eventIds": [
+      "event-terraria-houten"
+    ]
+  },
+  {
+    "id": "airport-ein",
+    "iata": "EIN",
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "latitude": 51.45,
+    "longitude": 5.374,
+    "eventIds": [
+      "event-terraria-houten"
+    ]
+  },
+  {
+    "id": "airport-prg",
+    "iata": "PRG",
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "latitude": 50.1,
+    "longitude": 14.26,
+    "eventIds": [
+      "event-prague-reptile-fair"
+    ]
+  },
+  {
+    "id": "airport-vie",
+    "iata": "VIE",
+    "name": "Vienna Airport",
+    "city": "Vienna",
+    "country": "Austria",
+    "latitude": 48.11,
+    "longitude": 16.57,
+    "eventIds": [
+      "event-prague-reptile-fair"
+    ]
+  },
+  {
+    "id": "airport-vrn",
+    "iata": "VRN",
+    "name": "Verona Villafranca Airport",
+    "city": "Verona",
+    "country": "Italy",
+    "latitude": 45.395,
+    "longitude": 10.888,
+    "eventIds": [
+      "event-verona-reptiles"
+    ]
+  },
+  {
+    "id": "airport-mxp",
+    "iata": "MXP",
+    "name": "Milan Malpensa",
+    "city": "Milan",
+    "country": "Italy",
+    "latitude": 45.63,
+    "longitude": 8.723,
+    "eventIds": [
+      "event-verona-reptiles"
+    ]
+  },
+  {
+    "id": "airport-ord",
+    "iata": "ORD",
+    "name": "Chicago O’Hare",
+    "city": "Chicago",
+    "country": "United States",
+    "latitude": 41.974,
+    "longitude": -87.907,
+    "eventIds": [
+      "event-narbc-tinley"
+    ]
+  },
+  {
+    "id": "airport-mdw",
+    "iata": "MDW",
+    "name": "Chicago Midway",
+    "city": "Chicago",
+    "country": "United States",
+    "latitude": 41.786,
+    "longitude": -87.752,
+    "eventIds": [
+      "event-narbc-tinley"
+    ]
+  },
+  {
+    "id": "airport-hnd",
+    "iata": "HND",
+    "name": "Tokyo Haneda",
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.549,
+    "longitude": 139.78,
+    "eventIds": [
+      "event-japan-reptiles-show"
+    ]
+  },
+  {
+    "id": "airport-nrt",
+    "iata": "NRT",
+    "name": "Tokyo Narita",
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.772,
+    "longitude": 140.392,
+    "eventIds": [
+      "event-japan-reptiles-show"
+    ]
+  },
+  {
+    "id": "airport-yyz",
+    "iata": "YYZ",
+    "name": "Toronto Pearson",
+    "city": "Toronto",
+    "country": "Canada",
+    "latitude": 43.677,
+    "longitude": -79.624,
+    "eventIds": [
+      "event-canadian-rbe"
+    ]
+  },
+  {
+    "id": "airport-yul",
+    "iata": "YUL",
+    "name": "Montréal Trudeau",
+    "city": "Montréal",
+    "country": "Canada",
+    "latitude": 45.47,
+    "longitude": -73.741,
+    "eventIds": [
+      "event-canadian-rbe"
+    ]
+  },
+  {
+    "id": "airport-mco",
+    "iata": "MCO",
+    "name": "Orlando International",
+    "city": "Orlando",
+    "country": "United States",
+    "latitude": 28.429,
+    "longitude": -81.309,
+    "eventIds": [
+      "event-repticon-orlando"
+    ]
+  },
+  {
+    "id": "airport-tpa",
+    "iata": "TPA",
+    "name": "Tampa International",
+    "city": "Tampa",
+    "country": "United States",
+    "latitude": 27.975,
+    "longitude": -82.533,
+    "eventIds": [
+      "event-repticon-orlando"
+    ]
+  },
+  {
+    "id": "airport-gru",
+    "iata": "GRU",
+    "name": "São Paulo Guarulhos",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "latitude": -23.435,
+    "longitude": -46.473,
+    "eventIds": [
+      "event-latam-placeholder"
+    ]
+  },
+  {
+    "id": "airport-gig",
+    "iata": "GIG",
+    "name": "Rio de Janeiro Galeão",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "latitude": -22.81,
+    "longitude": -43.25,
+    "eventIds": [
+      "event-latam-placeholder"
+    ]
+  },
+  {
+    "id": "airport-bkk",
+    "iata": "BKK",
+    "name": "Bangkok Suvarnabhumi",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "latitude": 13.69,
+    "longitude": 100.75,
+    "eventIds": [
+      "event-sea-placeholder"
+    ]
+  },
+  {
+    "id": "airport-dmk",
+    "iata": "DMK",
+    "name": "Bangkok Don Mueang",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "latitude": 13.912,
+    "longitude": 100.607,
+    "eventIds": [
+      "event-sea-placeholder"
+    ]
+  }
+]

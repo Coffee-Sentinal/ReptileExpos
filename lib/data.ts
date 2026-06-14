@@ -1,0 +1,9 @@
+import events from '@/public/data/events.json'; import taxa from '@/public/data/taxa.json'; import eventTaxa from '@/public/data/event_taxa.json'; import websites from '@/public/data/websites.json'; import eventWebsites from '@/public/data/event_websites.json'; import evidence from '@/public/data/evidence.json'; import airports from '@/public/data/airports.json'; import routeRisks from '@/public/data/route_risks.json'; import countries from '@/public/data/countries.json';
+import type {Airport,Country,Event,EventTaxon,EvidenceItem,RouteRisk,Taxon,Website,EventWebsite} from './types';
+export const allEvents=events as Event[]; export const allTaxa=taxa as Taxon[]; export const allEventTaxa=eventTaxa as EventTaxon[]; export const allWebsites=websites as Website[]; export const allEventWebsites=eventWebsites as EventWebsite[]; export const allEvidence=evidence as EvidenceItem[]; export const allAirports=airports as Airport[]; export const allRouteRisks=routeRisks as RouteRisk[]; export const allCountries=countries as Country[];
+export function getEvent(id:string){return allEvents.find(e=>e.id===id)}
+export function eventTaxaFor(eventId:string){return allEventTaxa.filter(x=>x.eventId===eventId).map(x=>({link:x,taxon:allTaxa.find(t=>t.id===x.taxonId)!}))}
+export function websitesFor(eventId:string){return allEventWebsites.filter(x=>x.eventId===eventId).map(x=>allWebsites.find(w=>w.id===x.websiteId)!).filter(Boolean)}
+export function evidenceFor(eventId:string){return allEvidence.filter(e=>e.relatedEventId===eventId)}
+export function routesFor(eventId:string,direction?:'inbound'|'outbound'){return allRouteRisks.filter(r=>r.eventId===eventId && (!direction||r.direction===direction))}
+export function airportsFor(eventId:string){return allAirports.filter(a=>a.eventIds.includes(eventId))}
