@@ -1,0 +1,402 @@
+[
+  {
+    "id": "et-event-terraristika-hamm-taxon-lanthanotus-borneensis",
+    "eventId": "event-terraristika-hamm",
+    "taxonId": "taxon-lanthanotus-borneensis",
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-terraristika-hamm-taxon-naultinus-spp",
+    "eventId": "event-terraristika-hamm",
+    "taxonId": "taxon-naultinus-spp",
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "seizure news",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-terraristika-hamm-taxon-brachylophus-spp",
+    "eventId": "event-terraristika-hamm",
+    "taxonId": "taxon-brachylophus-spp",
+    "reasonForInclusion": "conservation concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-terraristika-hamm-taxon-cuora-spp",
+    "eventId": "event-terraristika-hamm",
+    "taxonId": "taxon-cuora-spp",
+    "reasonForInclusion": "high demand proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-terraristika-hamm-taxon-cuora-trifasciata",
+    "eventId": "event-terraristika-hamm",
+    "taxonId": "taxon-cuora-trifasciata",
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-terraria-houten-taxon-naultinus-spp",
+    "eventId": "event-terraria-houten",
+    "taxonId": "taxon-naultinus-spp",
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "seizure news",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-terraria-houten-taxon-brachylophus-spp",
+    "eventId": "event-terraria-houten",
+    "taxonId": "taxon-brachylophus-spp",
+    "reasonForInclusion": "conservation concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-terraria-houten-taxon-cuora-spp",
+    "eventId": "event-terraria-houten",
+    "taxonId": "taxon-cuora-spp",
+    "reasonForInclusion": "high demand proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-terraria-houten-taxon-cuora-trifasciata",
+    "eventId": "event-terraria-houten",
+    "taxonId": "taxon-cuora-trifasciata",
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-terraria-houten-taxon-cuora-pani",
+    "eventId": "event-terraria-houten",
+    "taxonId": "taxon-cuora-pani",
+    "reasonForInclusion": "rare turtle proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-prague-reptile-fair-taxon-brachylophus-spp",
+    "eventId": "event-prague-reptile-fair",
+    "taxonId": "taxon-brachylophus-spp",
+    "reasonForInclusion": "conservation concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-prague-reptile-fair-taxon-cuora-spp",
+    "eventId": "event-prague-reptile-fair",
+    "taxonId": "taxon-cuora-spp",
+    "reasonForInclusion": "high demand proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-prague-reptile-fair-taxon-cuora-trifasciata",
+    "eventId": "event-prague-reptile-fair",
+    "taxonId": "taxon-cuora-trifasciata",
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-prague-reptile-fair-taxon-cuora-pani",
+    "eventId": "event-prague-reptile-fair",
+    "taxonId": "taxon-cuora-pani",
+    "reasonForInclusion": "rare turtle proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-prague-reptile-fair-taxon-mauremys-nigricans",
+    "eventId": "event-prague-reptile-fair",
+    "taxonId": "taxon-mauremys-nigricans",
+    "reasonForInclusion": "trade concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-verona-reptiles-taxon-cuora-spp",
+    "eventId": "event-verona-reptiles",
+    "taxonId": "taxon-cuora-spp",
+    "reasonForInclusion": "high demand proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-verona-reptiles-taxon-cuora-trifasciata",
+    "eventId": "event-verona-reptiles",
+    "taxonId": "taxon-cuora-trifasciata",
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-verona-reptiles-taxon-cuora-pani",
+    "eventId": "event-verona-reptiles",
+    "taxonId": "taxon-cuora-pani",
+    "reasonForInclusion": "rare turtle proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-verona-reptiles-taxon-mauremys-nigricans",
+    "eventId": "event-verona-reptiles",
+    "taxonId": "taxon-mauremys-nigricans",
+    "reasonForInclusion": "trade concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-verona-reptiles-taxon-cordylus-spp",
+    "eventId": "event-verona-reptiles",
+    "taxonId": "taxon-cordylus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-narbc-tinley-taxon-cuora-trifasciata",
+    "eventId": "event-narbc-tinley",
+    "taxonId": "taxon-cuora-trifasciata",
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-narbc-tinley-taxon-cuora-pani",
+    "eventId": "event-narbc-tinley",
+    "taxonId": "taxon-cuora-pani",
+    "reasonForInclusion": "rare turtle proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-narbc-tinley-taxon-mauremys-nigricans",
+    "eventId": "event-narbc-tinley",
+    "taxonId": "taxon-mauremys-nigricans",
+    "reasonForInclusion": "trade concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-narbc-tinley-taxon-cordylus-spp",
+    "eventId": "event-narbc-tinley",
+    "taxonId": "taxon-cordylus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-narbc-tinley-taxon-smaug-spp",
+    "eventId": "event-narbc-tinley",
+    "taxonId": "taxon-smaug-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-japan-reptiles-show-taxon-cuora-pani",
+    "eventId": "event-japan-reptiles-show",
+    "taxonId": "taxon-cuora-pani",
+    "reasonForInclusion": "rare turtle proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-japan-reptiles-show-taxon-mauremys-nigricans",
+    "eventId": "event-japan-reptiles-show",
+    "taxonId": "taxon-mauremys-nigricans",
+    "reasonForInclusion": "trade concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-japan-reptiles-show-taxon-cordylus-spp",
+    "eventId": "event-japan-reptiles-show",
+    "taxonId": "taxon-cordylus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-japan-reptiles-show-taxon-smaug-spp",
+    "eventId": "event-japan-reptiles-show",
+    "taxonId": "taxon-smaug-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-japan-reptiles-show-taxon-ouroborus-spp",
+    "eventId": "event-japan-reptiles-show",
+    "taxonId": "taxon-ouroborus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-canadian-rbe-taxon-mauremys-nigricans",
+    "eventId": "event-canadian-rbe",
+    "taxonId": "taxon-mauremys-nigricans",
+    "reasonForInclusion": "trade concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-canadian-rbe-taxon-cordylus-spp",
+    "eventId": "event-canadian-rbe",
+    "taxonId": "taxon-cordylus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-canadian-rbe-taxon-smaug-spp",
+    "eventId": "event-canadian-rbe",
+    "taxonId": "taxon-smaug-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-canadian-rbe-taxon-ouroborus-spp",
+    "eventId": "event-canadian-rbe",
+    "taxonId": "taxon-ouroborus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-canadian-rbe-taxon-uroplatus-spp",
+    "eventId": "event-canadian-rbe",
+    "taxonId": "taxon-uroplatus-spp",
+    "reasonForInclusion": "high demand gecko proxy",
+    "evidenceBasis": "seller import mention",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-repticon-orlando-taxon-cordylus-spp",
+    "eventId": "event-repticon-orlando",
+    "taxonId": "taxon-cordylus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-repticon-orlando-taxon-smaug-spp",
+    "eventId": "event-repticon-orlando",
+    "taxonId": "taxon-smaug-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-repticon-orlando-taxon-ouroborus-spp",
+    "eventId": "event-repticon-orlando",
+    "taxonId": "taxon-ouroborus-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-repticon-orlando-taxon-uroplatus-spp",
+    "eventId": "event-repticon-orlando",
+    "taxonId": "taxon-uroplatus-spp",
+    "reasonForInclusion": "high demand gecko proxy",
+    "evidenceBasis": "seller import mention",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-repticon-orlando-taxon-furcifer-spp",
+    "eventId": "event-repticon-orlando",
+    "taxonId": "taxon-furcifer-spp",
+    "reasonForInclusion": "proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-latam-placeholder-taxon-lanthanotus-borneensis",
+    "eventId": "event-latam-placeholder",
+    "taxonId": "taxon-lanthanotus-borneensis",
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-latam-placeholder-taxon-naultinus-spp",
+    "eventId": "event-latam-placeholder",
+    "taxonId": "taxon-naultinus-spp",
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "seizure news",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-latam-placeholder-taxon-brachylophus-spp",
+    "eventId": "event-latam-placeholder",
+    "taxonId": "taxon-brachylophus-spp",
+    "reasonForInclusion": "conservation concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-latam-placeholder-taxon-cuora-spp",
+    "eventId": "event-latam-placeholder",
+    "taxonId": "taxon-cuora-spp",
+    "reasonForInclusion": "high demand proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-latam-placeholder-taxon-cuora-trifasciata",
+    "eventId": "event-latam-placeholder",
+    "taxonId": "taxon-cuora-trifasciata",
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-sea-placeholder-taxon-naultinus-spp",
+    "eventId": "event-sea-placeholder",
+    "taxonId": "taxon-naultinus-spp",
+    "reasonForInclusion": "historical trade concern",
+    "evidenceBasis": "seizure news",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-sea-placeholder-taxon-brachylophus-spp",
+    "eventId": "event-sea-placeholder",
+    "taxonId": "taxon-brachylophus-spp",
+    "reasonForInclusion": "conservation concern",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "medium"
+  },
+  {
+    "id": "et-event-sea-placeholder-taxon-cuora-spp",
+    "eventId": "event-sea-placeholder",
+    "taxonId": "taxon-cuora-spp",
+    "reasonForInclusion": "high demand proxy group",
+    "evidenceBasis": "historical trade concern",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-sea-placeholder-taxon-cuora-trifasciata",
+    "eventId": "event-sea-placeholder",
+    "taxonId": "taxon-cuora-trifasciata",
+    "reasonForInclusion": "high demand turtle proxy",
+    "evidenceBasis": "journalist report",
+    "confidence": "high"
+  },
+  {
+    "id": "et-event-sea-placeholder-taxon-cuora-pani",
+    "eventId": "event-sea-placeholder",
+    "taxonId": "taxon-cuora-pani",
+    "reasonForInclusion": "rare turtle proxy",
+    "evidenceBasis": "expert judgement",
+    "confidence": "medium"
+  }
+]

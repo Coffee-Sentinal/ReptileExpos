@@ -1,0 +1,5 @@
+@import 'leaflet/dist/leaflet.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{color-scheme:dark} body{background:#06101f;color:#e8f1ff}.card{@apply rounded-2xl border border-line bg-panel/90 p-5 shadow-xl shadow-black/20}.section-title{@apply text-xl font-black text-amber}.metric{@apply rounded-2xl border border-line bg-gradient-to-br from-panel2 to-panel p-5}.input{@apply rounded-xl border border-line bg-navy px-3 py-2 text-sm text-slate-100 outline-none focus:border-amber}.route-line{background:linear-gradient(90deg,rgba(84,214,255,.1),rgba(246,196,83,.35),rgba(255,107,107,.12))}

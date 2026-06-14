@@ -1,0 +1,32 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    environment:
+      POSTGRES_DB: expowatch
+      POSTGRES_USER: expowatch
+      POSTGRES_PASSWORD: expowatch
+    ports: ["5432:5432"]
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U expowatch"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+  backend:
+    build: ./backend
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://expowatch:expowatch@db:5432/expowatch
+      CORS_ORIGINS: http://localhost:3000
+    ports: ["8000:8000"]
+    depends_on:
+      db: { condition: service_healthy }
+    volumes: [./backend:/app]
+  frontend:
+    build: ./frontend
+    environment:
+      NEXT_PUBLIC_API_BASE_URL: http://localhost:8000/api
+    ports: ["3000:3000"]
+    depends_on: [backend]
+    volumes: [./frontend:/app, /app/node_modules]
+volumes: { pgdata: {} }
