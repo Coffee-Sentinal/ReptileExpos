@@ -1,106 +1,73 @@
 # ExpoWatch
 
-ExpoWatch is a zero-cost, static GitHub Pages-compatible MVP for lawful OSINT and analytical planning around reptile/exotics expo monitoring priorities. It uses public/open-source and mock seed data only.
+ExpoWatch is a simple static HTML/CSS/JavaScript dashboard for public-safe OSINT organization around reptile and exotics expo monitoring priorities. It maps expo locations, event dates, linked public websites, high-risk proxy taxa, possible origin countries, route-risk corridors, evidence examples, and printable lead packages.
 
-## What the static MVP does
-- Maps international reptile/exotics expo demo events.
-- Tracks event dates and monitoring windows.
-- Links public-safe websites/platform categories.
-- Shows proxy taxa, evidence examples, route-risk intersections, and lead package previews.
-- Calculates deterministic explainable monitoring-priority scores in the browser/static build.
+## What this app is
+- A single-page GitHub Pages dashboard using `index.html`, `style.css`, `app.js`, and `data/*.json`.
+- A public-safe analytical prototype for lawful OSINT and recommended verification planning.
+- A no-install app that uses free CDN libraries: Leaflet for maps and PapaParse for optional OurAirports CSV parsing.
 
-## What it does not do
-- No backend, database, Docker, server runtime, paid API, authentication provider, or API keys.
-- No private scraping, login bypassing, account automation, live flight schedules, or sensitive operational intelligence.
-- No claim that any event, route, seller, courier, airline, vendor, or flight is criminal.
+## What this app is not
+- Not a backend application.
+- Not a database.
+- Not a live flight tracker.
+- Not an authentication system.
+- Not a scraper of private groups or protected platforms.
+- Not proof that any expo, route, seller, courier, airline, or vendor is criminal.
 
-## Safety disclaimer
-Static demo using public/open-source and mock data. Intelligence support only. Not proof of criminality. Use cautious language: risk indicator, monitoring priority, route-risk intersection, possible origin country, recommended verification, and confidence level.
+## Safety language
+Use cautious terms: “risk indicator,” “monitoring priority,” “possible origin country,” “route-risk corridor,” “recommended verification,” “confidence level,” and “not proof of criminality.” Avoid language implying guilt from a single indicator.
 
-## Local installation
-```bash
-npm install
-```
+## Launch locally
+Open `index.html` in a browser. The app includes bundled fallback data in `app.js` so it can still render if the browser blocks `file://` JSON fetches. On GitHub Pages, it loads `data/*.json` normally.
 
-## Local development
-```bash
-npm run dev
-```
-Open <http://localhost:3000>.
-
-## Static build
-```bash
-npm run build
-```
-Next.js is configured with `output: "export"`; the static site is written to `out/`.
-
-## Branch-based GitHub Pages deployment from `/docs`
-This repository is configured so you can deploy from the `main` branch without GitHub Actions.
-
-1. Build the GitHub Pages export into `/docs`:
-   ```bash
-   npm run build:pages
-   ```
-2. Commit the updated `/docs` folder:
-   ```bash
-   git add docs
-   git commit -m "Build GitHub Pages static site"
-   git push origin main
-   ```
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
+## Launch on GitHub Pages from the repository root
+1. Push these files to the `main` branch.
+2. Go to repository **Settings**.
+3. Go to **Pages**.
+4. Select **Deploy from branch**.
 5. Select branch: `main`.
-6. Select folder: `/docs`.
+6. Select folder: `root`.
 7. Save.
 
-The `build:pages` script sets the GitHub Pages base path to `/${REPOSITORY_NAME}` by default, runs the static Next.js export, copies `out/` into `/docs`, and writes `docs/.nojekyll`. To override the base path, run:
+No build step, npm install, GitHub Actions deployment workflow, server, API key, or database is required.
 
-```bash
-NEXT_PUBLIC_BASE_PATH=/your-repo-name npm run build:pages
-```
+## Data files
+- `data/events.json` — expo/event profiles, dates, priorities, linked websites, taxa, evidence, origins, and consumers.
+- `data/taxa.json` — proxy taxa library with CITES/EU status, origin countries, evidence basis, and officer-facing notes.
+- `data/websites.json` — public-safe websites and online source categories.
+- `data/evidence.json` — public-safe evidence/news examples.
+- `data/airports.json` — local airport coordinates.
+- `data/routes.json` — static route-risk corridors marked as not live flight intelligence.
+- `data/countries.json` — country list.
 
-The committed `docs/index.html` is a safe placeholder until you run `npm run build:pages`; after the script runs, `/docs` contains the final exported website files.
+## How to edit data files
+Edit the JSON files in `data/` with stable IDs. Keep content public-safe. Do not add private suspect data, private screenshots, phone numbers, account information, or sensitive operational intelligence.
 
-## Linting and validation
-```bash
-npm run lint
-python scripts/validate_data.py
-```
+## How to add an event
+1. Add a new object to `data/events.json`.
+2. Add or reuse website IDs in `linked_website_ids`.
+3. Add or reuse taxon IDs in `proxy_taxa_ids`.
+4. Add public-safe evidence IDs in `evidence_ids`.
+5. Add route-risk corridor objects to `data/routes.json` if appropriate.
 
-## Documentation
-Project documentation lives in `project-docs/` so the `/docs` folder can be reserved for GitHub Pages static output.
+## How to add taxa
+Add a new object to `data/taxa.json`, then reference its `id` from event `proxy_taxa_ids` and route `relevant_taxa_ids`.
 
-## Editing seed data
-Edit readable JSON files in `public/data/`. Keep stable IDs and public-safe content only. Do not include private suspect data, phone numbers, sensitive intelligence, or scraped private platform data.
+## How to use GDELT search
+Open the “Evidence & News Monitor” tab, enter a keyword and optional event/species/date filters, then click “Search public news.” If the browser blocks the query, use the displayed GDELT query URL manually.
 
-## Add a new event
-1. Add the event to `public/data/events.json` with `id`, `venue`, coordinates, date, confidence, and monitoring priority.
-2. Link taxa in `public/data/event_taxa.json`.
-3. Add websites in `public/data/websites.json` and `public/data/event_websites.json`.
-4. Add public-safe evidence in `public/data/evidence.json`.
-5. Add nearby airports and route-risk intersections if appropriate.
-6. Run `python scripts/validate_data.py`.
+## How to use GBIF lookup
+Open the “High-Risk Taxa” tab and click “Check GBIF taxonomy/range” on a taxon card. GBIF results are biological context only and are not legal origin proof.
 
-## Add proxy taxa
-Add the taxon to `public/data/taxa.json`, then reference its stable ID from `event_taxa.json` and `route_risks.json` as needed.
+## Data editor / import-export
+The editor tab lets you add a public-safe evidence draft in browser memory, save edits to `localStorage`, export edited JSON, import JSON, or reset to bundled demo data. It does not write back to GitHub.
 
-## Add evidence
-Add a public-safe entry to `public/data/evidence.json`. Use summaries and red flags; do not upload files or private screenshots in this prototype.
+## Limitations
+- Seed data is public-safe demo/open-source placeholder data.
+- Route-risk corridors are plausible analytical corridors, not live flights or current schedules.
+- GDELT, GBIF, and OurAirports requests depend on browser/network/CORS availability.
+- Browser local edits remain local unless exported and manually committed.
 
-## Regenerate route-risk data
-```bash
-python scripts/build_route_risk.py
-```
-The current MVP validates static corridors. Optional future scripts can derive corridors from open data.
-
-## Open-data refresh
-`.github/workflows/update-open-data.yml` can run manually or weekly. It attempts optional public data fetches, validates data, and commits changed public data files if any.
-
-## Known limitations
-- Static filters are UI scaffolding; advanced client-side filtering can be added next.
-- Route-risk corridors are static/demo and not current schedules.
-- Lead package export uses browser print/save-as-PDF only.
-- No authentication; this is a public-safe prototype.
-
-## Roadmap
-See `project-docs/ROADMAP.md`.
+## Caveat
+Static public-safe OSINT dashboard. Route-risk and event-risk outputs are intelligence indicators only, not proof of criminality.

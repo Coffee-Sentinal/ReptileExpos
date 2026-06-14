@@ -1,0 +1,434 @@
+[
+  {
+    "id": "w-terraristika-hamm-0",
+    "name": "Terraristika Hamm official event site",
+    "url": "https://www.terraristikahamm.de/",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-terraristika-hamm-1",
+    "name": "Terraristika Hamm seller forum",
+    "url": "https://example.org/public-demo/terraristika-hamm/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-terraristika-hamm-2",
+    "name": "Terraristika Hamm classifieds",
+    "url": "https://example.org/public-demo/terraristika-hamm/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-terraristika-hamm-3",
+    "name": "Terraristika Hamm social media group",
+    "url": "https://example.org/public-demo/terraristika-hamm/3",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-terraria-houten-0",
+    "name": "Terraria Houten official event site",
+    "url": "https://example.org/terraria-houten-public-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-terraria-houten-1",
+    "name": "Terraria Houten seller forum",
+    "url": "https://example.org/public-demo/terraria-houten/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-terraria-houten-2",
+    "name": "Terraria Houten classifieds",
+    "url": "https://example.org/public-demo/terraria-houten/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-terraria-houten-3",
+    "name": "Terraria Houten social media group",
+    "url": "https://example.org/public-demo/terraria-houten/3",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-prague-reptile-fair-0",
+    "name": "Prague reptile/exotics fair official event site",
+    "url": "https://example.org/prague-reptile-fair-public-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-prague-reptile-fair-1",
+    "name": "Prague reptile/exotics fair seller forum",
+    "url": "https://example.org/public-demo/prague-reptile-fair/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-prague-reptile-fair-2",
+    "name": "Prague reptile/exotics fair classifieds",
+    "url": "https://example.org/public-demo/prague-reptile-fair/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-prague-reptile-fair-3",
+    "name": "Prague reptile/exotics fair social media group",
+    "url": "https://example.org/public-demo/prague-reptile-fair/3",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-verona-reptiles-0",
+    "name": "Verona Reptiles official event site",
+    "url": "https://example.org/verona-reptiles-public-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-verona-reptiles-1",
+    "name": "Verona Reptiles seller forum",
+    "url": "https://example.org/public-demo/verona-reptiles/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-verona-reptiles-2",
+    "name": "Verona Reptiles classifieds",
+    "url": "https://example.org/public-demo/verona-reptiles/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-verona-reptiles-3",
+    "name": "Verona Reptiles social media group",
+    "url": "https://example.org/public-demo/verona-reptiles/3",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-narbc-tinley-park-0",
+    "name": "NARBC Tinley Park official event site",
+    "url": "https://example.org/narbc-tinley-public-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-narbc-tinley-park-1",
+    "name": "NARBC Tinley Park seller forum",
+    "url": "https://example.org/public-demo/narbc-tinley-park/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-narbc-tinley-park-2",
+    "name": "NARBC Tinley Park classifieds",
+    "url": "https://example.org/public-demo/narbc-tinley-park/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-narbc-tinley-park-3",
+    "name": "NARBC Tinley Park social media group",
+    "url": "https://example.org/public-demo/narbc-tinley-park/3",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-japan-reptiles-show-0",
+    "name": "Japan Reptiles Show official event site",
+    "url": "https://example.org/japan-reptiles-show-public-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-japan-reptiles-show-1",
+    "name": "Japan Reptiles Show seller forum",
+    "url": "https://example.org/public-demo/japan-reptiles-show/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-japan-reptiles-show-2",
+    "name": "Japan Reptiles Show classifieds",
+    "url": "https://example.org/public-demo/japan-reptiles-show/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-japan-reptiles-show-3",
+    "name": "Japan Reptiles Show social media group",
+    "url": "https://example.org/public-demo/japan-reptiles-show/3",
+    "source_type": "social media group",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-canadian-rbe-0",
+    "name": "Canadian Reptile Breeders Expo official event site",
+    "url": "https://example.org/canadian-rbe-public-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-canadian-rbe-1",
+    "name": "Canadian Reptile Breeders Expo seller forum",
+    "url": "https://example.org/public-demo/canadian-rbe/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-canadian-rbe-2",
+    "name": "Canadian Reptile Breeders Expo classifieds",
+    "url": "https://example.org/public-demo/canadian-rbe/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-repticon-orlando-0",
+    "name": "Repticon Orlando official event site",
+    "url": "https://example.org/repticon-orlando-public-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "high",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-repticon-orlando-1",
+    "name": "Repticon Orlando seller forum",
+    "url": "https://example.org/public-demo/repticon-orlando/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-repticon-orlando-2",
+    "name": "Repticon Orlando classifieds",
+    "url": "https://example.org/public-demo/repticon-orlando/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "medium",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-latam-placeholder-0",
+    "name": "Latin America reptile/exotics expo placeholder official event site",
+    "url": "https://example.org/latam-placeholder-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "low",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-latam-placeholder-1",
+    "name": "Latin America reptile/exotics expo placeholder seller forum",
+    "url": "https://example.org/public-demo/latam-placeholder/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "low",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-latam-placeholder-2",
+    "name": "Latin America reptile/exotics expo placeholder classifieds",
+    "url": "https://example.org/public-demo/latam-placeholder/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "low",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-sea-placeholder-0",
+    "name": "Southeast Asia exotic pet/reptile market placeholder official event site",
+    "url": "https://example.org/sea-placeholder-demo",
+    "source_type": "official event site",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "low",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-sea-placeholder-1",
+    "name": "Southeast Asia exotic pet/reptile market placeholder seller forum",
+    "url": "https://example.org/public-demo/sea-placeholder/1",
+    "source_type": "seller forum",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "low",
+    "last_checked": "2026-06-01"
+  },
+  {
+    "id": "w-sea-placeholder-2",
+    "name": "Southeast Asia exotic pet/reptile market placeholder classifieds",
+    "url": "https://example.org/public-demo/sea-placeholder/2",
+    "source_type": "classifieds",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "notes": "Public-safe demo/open-source source category. Replace only with lawful public references.",
+    "confidence": "low",
+    "last_checked": "2026-06-01"
+  }
+]
