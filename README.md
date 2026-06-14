@@ -27,10 +27,33 @@ Open `index.html` in a browser. The app includes bundled fallback data in `app.j
 3. Go to **Pages**.
 4. Select **Deploy from branch**.
 5. Select branch: `main`.
-6. Select folder: `root`.
+6. Select folder: `/ (root)`.
 7. Save.
+8. Wait for GitHub Pages to finish publishing, then open `https://<your-user-or-org>.github.io/<repo-name>/`.
 
-No build step, npm install, GitHub Actions deployment workflow, server, API key, or database is required.
+No build step, npm install, GitHub Actions deployment workflow, server, API key, or database is required. The root `index.html` is the app entry point, and `.nojekyll` is included so GitHub Pages serves the static files as-is.
+
+### If GitHub Pages shows this README instead of the dashboard
+That means Pages is not serving the committed root `index.html`. Check these items:
+
+1. Confirm the latest commit on `main` contains `index.html`, `style.css`, `app.js`, and `data/*.json` at the repository root.
+2. In **Settings → Pages**, confirm branch is `main` and folder is `/ (root)`, not `/docs`.
+3. Wait a few minutes and hard-refresh the Pages URL. GitHub Pages can cache an older build briefly.
+4. Open the URL ending in `/index.html` directly. If that works, the root URL cache is stale.
+5. If it still shows README content, push a fresh commit after verifying `index.html` exists in the GitHub web UI.
+
+
+## Current root-file sanity check
+
+For GitHub Pages from `main` + `/ (root)`, these files must appear at the repository root in GitHub's web UI before Pages is refreshed:
+
+- `index.html`
+- `style.css`
+- `app.js`
+- `.nojekyll`
+- `data/events.json`
+
+If the Pages URL renders this README instead of the dashboard, GitHub Pages is serving an older commit or the wrong folder. Confirm the settings and open `/index.html` directly after the latest commit is on `main`.
 
 ## Data files
 - `data/events.json` — expo/event profiles, dates, priorities, linked websites, taxa, evidence, origins, and consumers.
