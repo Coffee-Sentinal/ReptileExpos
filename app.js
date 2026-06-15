@@ -168,10 +168,10 @@ function renderSummary(){
   const events = [...state.data.events].sort((a,b) => new Date(a.known_dates[0]) - new Date(b.known_dates[0]));
   const upcoming = events.filter((event) => new Date(event.known_dates[0]) >= now);
   const scored = events.map((event) => ({ event, score: scoreEvent(event) })).sort((a,b) => b.score.score - a.score.score);
-  $('summaryCards').innerHTML = [
+  const summaryCards = $('summaryCards');
+  if(summaryCards) summaryCards.innerHTML = [
     ['Events', state.data.events.length], ['Upcoming events', upcoming.length], ['High / critical', scored.filter((item) => ['high','critical'].includes(item.score.priority)).length], ['Proxy taxa', state.data.taxa.length], ['Linked sources', state.data.websites.length], ['Evidence items', state.data.evidence.length], ['Route corridors', state.data.routes.length]
   ].map(([label, number]) => `<div class="metric"><div class="num">${number}</div><div class="label">${label}</div></div>`).join('');
-  $('priorityList').innerHTML = scored.slice(0, 6).map(({event, score}) => `<article class="mini-card"><div><strong>${esc(event.name)}</strong><p class="mini">${esc(event.city)}, ${esc(event.country)} · ${esc(event.known_dates[0])}</p></div><div>${riskBadge(score.priority)} ${confidenceBadge(score.confidence)}${scoreMeter(score.score, score.priority)}</div><button class="ghost-btn" onclick="openProfile('${event.id}')">Open profile</button></article>`).join('');
   const feed = $('upcomingFeed');
   if(feed) feed.innerHTML = upcoming.slice(0, 8).map((event) => `<article class="feed-card"><strong>${esc(event.known_dates[0])}</strong><span>${esc(event.name)}</span><span class="mini">${esc(event.city)}, ${esc(event.country)}</span></article>`).join('');
 }
