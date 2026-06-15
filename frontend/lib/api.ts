@@ -1,0 +1,4 @@
+export type Event={id:string;name:string;slug:string;description:string;confidence:string;venue:{name:string;city:string;country:string;latitude:number;longitude:number};dates:{start_date:string;end_date:string;label:string}[];websites:any[];taxa:any[];evidence:any[];routes:any[];risk_score:any};
+const base=process.env.NEXT_PUBLIC_API_BASE_URL||'http://localhost:8000/api';
+async function get<T>(path:string):Promise<T>{const r=await fetch(`${base}${path}`,{cache:'no-store'}); if(!r.ok) throw new Error(`${path} ${r.status}`); return r.json()}
+export const api={events:()=>get<Event[]>('/events'),event:(id:string)=>get<Event>(`/events/${id}`),calendar:()=>get<any[]>('/calendar/upcoming'),taxa:()=>get<any[]>('/taxa'),evidence:()=>get<any[]>('/evidence'),routes:()=>get<any[]>('/routes'),leadPackages:()=>get<any[]>('/lead-packages'),leadPreview:(id:string)=>get<any>(`/events/${id}/lead-package/preview`)};

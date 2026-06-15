@@ -1,0 +1,1 @@
+export function RiskBadge({priority}:{priority?:string}){const p=priority||'pending'; const c=p==='high'?'bg-red-500/20 text-red-200':p==='medium'?'bg-amber/20 text-amber':'bg-emerald-500/20 text-emerald-200'; return <span className={`badge ${c}`}>{p} monitoring priority</span>}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "country-brazil",
+    "name": "Brazil",
+    "region": ""
+  },
+  {
+    "id": "country-canada",
+    "name": "Canada",
+    "region": ""
+  },
+  {
+    "id": "country-caribbean",
+    "name": "Caribbean",
+    "region": ""
+  },
+  {
+    "id": "country-china",
+    "name": "China",
+    "region": ""
+  },
+  {
+    "id": "country-czech-republic",
+    "name": "Czech Republic",
+    "region": ""
+  },
+  {
+    "id": "country-fiji",
+    "name": "Fiji",
+    "region": ""
+  },
+  {
+    "id": "country-germany",
+    "name": "Germany",
+    "region": ""
+  },
+  {
+    "id": "country-indonesia",
+    "name": "Indonesia",
+    "region": ""
+  },
+  {
+    "id": "country-italy",
+    "name": "Italy",
+    "region": ""
+  },
+  {
+    "id": "country-japan",
+    "name": "Japan",
+    "region": ""
+  },
+  {
+    "id": "country-laos",
+    "name": "Laos",
+    "region": ""
+  },
+  {
+    "id": "country-madagascar",
+    "name": "Madagascar",
+    "region": ""
+  },
+  {
+    "id": "country-malaysia",
+    "name": "Malaysia",
+    "region": ""
+  },
+  {
+    "id": "country-namibia",
+    "name": "Namibia",
+    "region": ""
+  },
+  {
+    "id": "country-netherlands",
+    "name": "Netherlands",
+    "region": ""
+  },
+  {
+    "id": "country-new-zealand",
+    "name": "New Zealand",
+    "region": ""
+  },
+  {
+    "id": "country-papua-new-guinea",
+    "name": "Papua New Guinea",
+    "region": ""
+  },
+  {
+    "id": "country-south-africa",
+    "name": "South Africa",
+    "region": ""
+  },
+  {
+    "id": "country-tanzania",
+    "name": "Tanzania",
+    "region": ""
+  },
+  {
+    "id": "country-thailand",
+    "name": "Thailand",
+    "region": ""
+  },
+  {
+    "id": "country-united-states",
+    "name": "United States",
+    "region": ""
+  },
+  {
+    "id": "country-vietnam",
+    "name": "Vietnam",
+    "region": ""
+  }
+]
