@@ -1,0 +1,728 @@
+[
+  {
+    "id": "e-terraristika-hamm-0",
+    "title": "Terraristika Hamm evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "related_taxa_ids": [
+      "lanthanotus-borneensis",
+      "naultinus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-terraristika-hamm-1",
+    "title": "Terraristika Hamm evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "related_taxa_ids": [
+      "lanthanotus-borneensis",
+      "naultinus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-terraristika-hamm-2",
+    "title": "Terraristika Hamm evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "terraristika-hamm"
+    ],
+    "related_taxa_ids": [
+      "lanthanotus-borneensis",
+      "naultinus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-terraria-houten-0",
+    "title": "Terraria Houten evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "related_taxa_ids": [
+      "naultinus-spp",
+      "brachylophus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-terraria-houten-1",
+    "title": "Terraria Houten evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "related_taxa_ids": [
+      "naultinus-spp",
+      "brachylophus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-terraria-houten-2",
+    "title": "Terraria Houten evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "terraria-houten"
+    ],
+    "related_taxa_ids": [
+      "naultinus-spp",
+      "brachylophus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-prague-reptile-fair-0",
+    "title": "Prague reptile/exotics fair evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "related_taxa_ids": [
+      "brachylophus-spp",
+      "cuora-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-prague-reptile-fair-1",
+    "title": "Prague reptile/exotics fair evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "related_taxa_ids": [
+      "brachylophus-spp",
+      "cuora-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-prague-reptile-fair-2",
+    "title": "Prague reptile/exotics fair evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "prague-reptile-fair"
+    ],
+    "related_taxa_ids": [
+      "brachylophus-spp",
+      "cuora-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-verona-reptiles-0",
+    "title": "Verona Reptiles evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "related_taxa_ids": [
+      "cuora-spp",
+      "cuora-trifasciata"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-verona-reptiles-1",
+    "title": "Verona Reptiles evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "related_taxa_ids": [
+      "cuora-spp",
+      "cuora-trifasciata"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-verona-reptiles-2",
+    "title": "Verona Reptiles evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "verona-reptiles"
+    ],
+    "related_taxa_ids": [
+      "cuora-spp",
+      "cuora-trifasciata"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-narbc-tinley-park-0",
+    "title": "NARBC Tinley Park evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "related_taxa_ids": [
+      "cuora-trifasciata",
+      "cuora-pani"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-narbc-tinley-park-1",
+    "title": "NARBC Tinley Park evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "related_taxa_ids": [
+      "cuora-trifasciata",
+      "cuora-pani"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-narbc-tinley-park-2",
+    "title": "NARBC Tinley Park evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "narbc-tinley-park"
+    ],
+    "related_taxa_ids": [
+      "cuora-trifasciata",
+      "cuora-pani"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-japan-reptiles-show-0",
+    "title": "Japan Reptiles Show evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "related_taxa_ids": [
+      "cuora-pani",
+      "mauremys-nigricans"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-japan-reptiles-show-1",
+    "title": "Japan Reptiles Show evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "related_taxa_ids": [
+      "cuora-pani",
+      "mauremys-nigricans"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-japan-reptiles-show-2",
+    "title": "Japan Reptiles Show evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "japan-reptiles-show"
+    ],
+    "related_taxa_ids": [
+      "cuora-pani",
+      "mauremys-nigricans"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-canadian-rbe-0",
+    "title": "Canadian Reptile Breeders Expo evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "related_taxa_ids": [
+      "mauremys-nigricans",
+      "cordylus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-canadian-rbe-1",
+    "title": "Canadian Reptile Breeders Expo evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "related_taxa_ids": [
+      "mauremys-nigricans",
+      "cordylus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-canadian-rbe-2",
+    "title": "Canadian Reptile Breeders Expo evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "canadian-rbe"
+    ],
+    "related_taxa_ids": [
+      "mauremys-nigricans",
+      "cordylus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-repticon-orlando-0",
+    "title": "Repticon Orlando evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "related_taxa_ids": [
+      "cordylus-spp",
+      "smaug-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-repticon-orlando-1",
+    "title": "Repticon Orlando evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "related_taxa_ids": [
+      "cordylus-spp",
+      "smaug-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-repticon-orlando-2",
+    "title": "Repticon Orlando evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "repticon-orlando"
+    ],
+    "related_taxa_ids": [
+      "cordylus-spp",
+      "smaug-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-latam-placeholder-0",
+    "title": "Latin America reptile/exotics expo placeholder evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "related_taxa_ids": [
+      "smaug-spp",
+      "ouroborus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "low",
+    "public_safe": true
+  },
+  {
+    "id": "e-latam-placeholder-1",
+    "title": "Latin America reptile/exotics expo placeholder evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "related_taxa_ids": [
+      "smaug-spp",
+      "ouroborus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "low",
+    "public_safe": true
+  },
+  {
+    "id": "e-latam-placeholder-2",
+    "title": "Latin America reptile/exotics expo placeholder evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "latam-placeholder"
+    ],
+    "related_taxa_ids": [
+      "smaug-spp",
+      "ouroborus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "low",
+    "public_safe": true
+  },
+  {
+    "id": "e-sea-placeholder-0",
+    "title": "Southeast Asia exotic pet/reptile market placeholder evidence example 1",
+    "evidence_type": "official event page",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "related_taxa_ids": [
+      "ouroborus-spp",
+      "uroplatus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "event date confirmation"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "low",
+    "public_safe": true
+  },
+  {
+    "id": "e-sea-placeholder-1",
+    "title": "Southeast Asia exotic pet/reptile market placeholder evidence example 2",
+    "evidence_type": "journalist report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "related_taxa_ids": [
+      "ouroborus-spp",
+      "uroplatus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "low",
+    "public_safe": true
+  },
+  {
+    "id": "e-sea-placeholder-2",
+    "title": "Southeast Asia exotic pet/reptile market placeholder evidence example 3",
+    "evidence_type": "attendee report",
+    "url": "",
+    "date_observed": "2026-06-01",
+    "date_posted": "2026-05-15",
+    "related_event_ids": [
+      "sea-placeholder"
+    ],
+    "related_taxa_ids": [
+      "ouroborus-spp",
+      "uroplatus-spp"
+    ],
+    "summary": "Evidence summary placeholder for source review and analyst notes.",
+    "extracted_red_flags": [
+      "source claim needs recommended verification",
+      "proxy taxon mention"
+    ],
+    "analyst_notes": "Analyst review placeholder; verify source, date, and relevance.",
+    "confidence": "low",
+    "public_safe": true
+  },
+  {
+    "id": "e-reptile-fair-incheon-0",
+    "title": "Reptile Fair Incheon event listing",
+    "evidence_type": "official event page",
+    "url": "https://10times.com/e1d0-355d-zfgs-g",
+    "date_observed": "2026-06-14",
+    "date_posted": "",
+    "related_event_ids": [
+      "reptile-fair-incheon"
+    ],
+    "related_taxa_ids": [
+      "cuora-spp",
+      "varanus-prasinus-complex"
+    ],
+    "summary": "Public event listing records Reptile Fair Incheon at Songdo Convensia.",
+    "extracted_red_flags": [
+      "international visitor/vendor interest",
+      "airport-proximate venue"
+    ],
+    "analyst_notes": "Verify current edition and organizer source before operational use.",
+    "confidence": "medium",
+    "public_safe": true
+  },
+  {
+    "id": "e-reptile-fair-incheon-1",
+    "title": "Korea reptile import/quarantine media context",
+    "evidence_type": "journalist report",
+    "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20240507/korea-mandates-quarantine-of-imported-reptiles",
+    "date_observed": "2026-06-14",
+    "date_posted": "2024-05-07",
+    "related_event_ids": [
+      "reptile-fair-incheon"
+    ],
+    "related_taxa_ids": [
+      "cuora-spp",
+      "varanus-prasinus-complex"
+    ],
+    "summary": "Media context on Korean reptile import quarantine requirements and enforcement environment.",
+    "extracted_red_flags": [
+      "import controls context",
+      "documentation verification relevance"
+    ],
+    "analyst_notes": "Use as country-context media item, not event-specific evidence.",
+    "confidence": "medium",
+    "public_safe": true
+  }
+]
