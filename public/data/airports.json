@@ -14292,11 +14292,11 @@
   {
     "id": "airport-mnz",
     "iata": "MNZ",
-    "name": "Manassas Regional Airport/Harry P. Davis Field",
+    "name": "Washington Manassas Harry P. Davis Field",
     "city": "Manassas",
     "country": "US",
-    "latitude": 38.721401,
-    "longitude": -77.515404,
+    "latitude": 38.723021,
+    "longitude": -77.515422,
     "eventIds": []
   },
   {
@@ -16502,7 +16502,7 @@
   {
     "id": "airport-oak",
     "iata": "OAK",
-    "name": "San Francisco Bay Oakland International Airport",
+    "name": "Oakland San Francisco Bay Airport",
     "city": "Oakland",
     "country": "US",
     "latitude": 37.720085,
@@ -17895,8 +17895,8 @@
     "name": "Shreveport Regional Airport",
     "city": "Shreveport",
     "country": "US",
-    "latitude": 32.446602,
-    "longitude": -93.8256,
+    "latitude": 32.444747,
+    "longitude": -93.826741,
     "eventIds": []
   },
   {
