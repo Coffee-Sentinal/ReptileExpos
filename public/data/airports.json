@@ -16882,7 +16882,7 @@
   {
     "id": "airport-pbi",
     "iata": "PBI",
-    "name": "Palm Beach International Airport",
+    "name": "President Donald J. Trump International Airport",
     "city": "West Palm Beach",
     "country": "US",
     "latitude": 26.683201,
@@ -31095,8 +31095,8 @@
     "name": "El Calafate - Commander Armando Tola International Airport",
     "city": "El Calafate",
     "country": "AR",
-    "latitude": -50.281997,
-    "longitude": -72.053949,
+    "latitude": -50.280267,
+    "longitude": -72.053401,
     "eventIds": []
   },
   {
