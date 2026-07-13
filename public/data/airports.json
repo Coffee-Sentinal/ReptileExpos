@@ -29852,7 +29852,7 @@
   {
     "id": "airport-gmp",
     "iata": "GMP",
-    "name": "Gimpo International Airport",
+    "name": "Seoul Gimpo International Airport",
     "city": "Seoul",
     "country": "KR",
     "latitude": 37.5583,
@@ -42982,7 +42982,7 @@
   {
     "id": "airport-wsi",
     "iata": "WSI",
-    "name": "[Duplicate] Western Sydney International Airport",
+    "name": "Nancy Bird Walton, Western Sydney International Airport",
     "city": "Sydney",
     "country": "AU",
     "latitude": -33.88806,
