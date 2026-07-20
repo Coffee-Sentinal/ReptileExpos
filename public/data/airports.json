@@ -70,6 +70,16 @@
     "eventIds": []
   },
   {
+    "id": "airport-wsi",
+    "iata": "WSI",
+    "name": "Western Sydney International (Nancy-Bird Walton) Airport",
+    "city": "Sydney",
+    "country": "AU",
+    "latitude": -33.883461,
+    "longitude": 150.712981,
+    "eventIds": []
+  },
+  {
     "id": "airport-axf",
     "iata": "AXF",
     "name": "Alxa Left Banner Bayanhot Airport",
@@ -777,6 +787,16 @@
     "country": "CN",
     "latitude": 37.661333,
     "longitude": 75.288877,
+    "eventIds": []
+  },
+  {
+    "id": "airport-lsg",
+    "iata": "LSG",
+    "name": "Leshan Airport",
+    "city": "Leshan (Wutongqiao)",
+    "country": "CN",
+    "latitude": 29.438627,
+    "longitude": 103.749218,
     "eventIds": []
   },
   {
@@ -33885,8 +33905,8 @@
     "name": "Dr. Luciano de Arruda Coelho Regional Airport",
     "city": "Sobral",
     "country": "BR",
-    "latitude": -3.614488,
-    "longitude": -40.231426,
+    "latitude": -3.614769,
+    "longitude": -40.232208,
     "eventIds": []
   },
   {
@@ -42977,16 +42997,6 @@
     "country": "AU",
     "latitude": -37.07170104980469,
     "longitude": 142.74099731445312,
-    "eventIds": []
-  },
-  {
-    "id": "airport-wsi",
-    "iata": "WSI",
-    "name": "Nancy Bird Walton, Western Sydney International Airport",
-    "city": "Sydney",
-    "country": "AU",
-    "latitude": -33.88806,
-    "longitude": 150.71472,
     "eventIds": []
   },
   {
