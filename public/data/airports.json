@@ -6940,16 +6940,6 @@
     "eventIds": []
   },
   {
-    "id": "airport-gvx",
-    "iata": "GVX",
-    "name": "G\u00e4vle Sandviken Airport",
-    "city": "G\u00e4vle / Sandviken",
-    "country": "SE",
-    "latitude": 60.5933,
-    "longitude": 16.951401,
-    "eventIds": []
-  },
-  {
     "id": "airport-lpi",
     "iata": "LPI",
     "name": "Link\u00f6ping City Airport",
@@ -35665,8 +35655,8 @@
     "name": "Lensk Airport",
     "city": "Lensk",
     "country": "RU",
-    "latitude": 60.7206001282,
-    "longitude": 114.825996399,
+    "latitude": 60.723594,
+    "longitude": 114.825319,
     "eventIds": []
   },
   {
@@ -35735,8 +35725,8 @@
     "name": "Cherskiy Airport",
     "city": "Cherskiy",
     "country": "RU",
-    "latitude": 68.7406005859375,
-    "longitude": 161.33799743652344,
+    "latitude": 68.740601,
+    "longitude": 161.337997,
     "eventIds": []
   },
   {
@@ -35825,8 +35815,8 @@
     "name": "Ignatyevo Airport",
     "city": "Blagoveschensk",
     "country": "RU",
-    "latitude": 50.42539978027344,
-    "longitude": 127.41200256347656,
+    "latitude": 50.426723,
+    "longitude": 127.415502,
     "eventIds": []
   },
   {
@@ -35845,8 +35835,8 @@
     "name": "Komsomolsk-on-Amur Airport",
     "city": "Komsomolsk-on-Amur",
     "country": "RU",
-    "latitude": 50.409000396728516,
-    "longitude": 136.9340057373047,
+    "latitude": 50.409,
+    "longitude": 136.934006,
     "eventIds": []
   },
   {
@@ -35875,8 +35865,8 @@
     "name": "Provideniya Bay Airport",
     "city": "Chukotka",
     "country": "RU",
-    "latitude": 64.37809753417969,
-    "longitude": -173.2429962158203,
+    "latitude": 64.378098,
+    "longitude": -173.242996,
     "eventIds": []
   },
   {
