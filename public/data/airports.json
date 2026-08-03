@@ -60,16 +60,6 @@
     "eventIds": []
   },
   {
-    "id": "airport-wfr",
-    "iata": "WFR",
-    "name": "[Duplicate] Wolf's Fang Runway",
-    "city": "Queen Maud Island",
-    "country": "AQ",
-    "latitude": -71.5264,
-    "longitude": 8.799459,
-    "eventIds": []
-  },
-  {
     "id": "airport-wsi",
     "iata": "WSI",
     "name": "Western Sydney International (Nancy-Bird Walton) Airport",
@@ -5393,7 +5383,7 @@
     "id": "airport-edi",
     "iata": "EDI",
     "name": "Edinburgh Airport",
-    "city": "Edinburgh",
+    "city": "Ingliston, Edinburgh",
     "country": "GB",
     "latitude": 55.950145,
     "longitude": -3.372288,
@@ -22210,16 +22200,6 @@
     "eventIds": []
   },
   {
-    "id": "airport-ada",
-    "iata": "ADA",
-    "name": "Adana \u015eakirpa\u015fa Airport",
-    "city": "Seyhan",
-    "country": "TR",
-    "latitude": 36.982201,
-    "longitude": 35.280399,
-    "eventIds": []
-  },
-  {
     "id": "airport-uab",
     "iata": "UAB",
     "name": "\u0130ncirlik Air Base",
@@ -25625,8 +25605,8 @@
     "name": "Nelson Airport",
     "city": "Nelson",
     "country": "NZ",
-    "latitude": -41.298302,
-    "longitude": 173.220993,
+    "latitude": -41.296709,
+    "longitude": 173.224323,
     "eventIds": []
   },
   {
@@ -42285,8 +42265,8 @@
     "name": "Longreach Airport",
     "city": "Longreach",
     "country": "AU",
-    "latitude": -23.4342,
-    "longitude": 144.279999,
+    "latitude": -23.43202,
+    "longitude": 144.277492,
     "eventIds": []
   },
   {
@@ -43135,8 +43115,8 @@
     "name": "Wiluna Airport",
     "city": "",
     "country": "AU",
-    "latitude": -26.629199981689453,
-    "longitude": 120.22100067138672,
+    "latitude": -26.632691,
+    "longitude": 120.221906,
     "eventIds": []
   },
   {
