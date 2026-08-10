@@ -3215,8 +3215,8 @@
     "name": "Mecheria Airport",
     "city": "Mecheria",
     "country": "DZ",
-    "latitude": 33.535900116,
-    "longitude": -0.242353007197,
+    "latitude": 33.5359,
+    "longitude": -0.242353,
     "eventIds": []
   },
   {
@@ -3975,8 +3975,8 @@
     "name": "Gafsa Ksar International Airport",
     "city": "Gafsa",
     "country": "TN",
-    "latitude": 34.422000885009766,
-    "longitude": 8.822500228881836,
+    "latitude": 34.422001,
+    "longitude": 8.8225,
     "eventIds": []
   },
   {
@@ -10705,8 +10705,8 @@
     "name": "Ghat Airport",
     "city": "Ghat",
     "country": "LY",
-    "latitude": 25.1455993652,
-    "longitude": 10.142600059500001,
+    "latitude": 25.145599,
+    "longitude": 10.1426,
     "eventIds": []
   },
   {
@@ -37605,8 +37605,8 @@
     "name": "Ufa International Airport",
     "city": "Ufa",
     "country": "RU",
-    "latitude": 54.557498931885,
-    "longitude": 55.874401092529,
+    "latitude": 54.557499,
+    "longitude": 55.874401,
     "eventIds": []
   },
   {
