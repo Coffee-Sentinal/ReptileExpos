@@ -812,7 +812,7 @@
   {
     "id": "airport-zat",
     "iata": "ZAT",
-    "name": "Zhaotong Zhaoyang Airport \uff08Not fully opened)",
+    "name": "Zhaotong Zhaoyang Airport",
     "city": "Zhaotong",
     "country": "CN",
     "latitude": 27.205843,
@@ -11120,6 +11120,16 @@
     "eventIds": []
   },
   {
+    "id": "airport-avr",
+    "iata": "AVR",
+    "name": "Amravati  Airport",
+    "city": "Amravati",
+    "country": "IN",
+    "latitude": 20.814608,
+    "longitude": 77.717765,
+    "eventIds": []
+  },
+  {
     "id": "airport-sdw",
     "iata": "SDW",
     "name": "Sindhudurg Airport",
@@ -15692,7 +15702,7 @@
   {
     "id": "airport-mem",
     "iata": "MEM",
-    "name": "Memphis International Airport",
+    "name": "Frederick W. Smith International Airport",
     "city": "Memphis",
     "country": "US",
     "latitude": 35.043845,
@@ -17902,7 +17912,7 @@
   {
     "id": "airport-sjc",
     "iata": "SJC",
-    "name": "Norman Y. Mineta San Jose International Airport",
+    "name": "Mineta San Jose International Airport",
     "city": "San Jose",
     "country": "US",
     "latitude": 37.362452,
@@ -19102,7 +19112,7 @@
   {
     "id": "airport-gec",
     "iata": "GEC",
-    "name": "Lefkoniko Airport / Ge\u00e7itkale Air Base",
+    "name": "Ge\u00e7itkale Airbase",
     "city": "Lefkoniko (Ge\u00e7itkale)",
     "country": "CY",
     "latitude": 35.23591,
@@ -22257,6 +22267,16 @@
     "country": "TR",
     "latitude": 37.979,
     "longitude": 32.561901,
+    "eventIds": []
+  },
+  {
+    "id": "airport-vas",
+    "iata": "VAS",
+    "name": "Sivas Nuri Demira\u011f Airport",
+    "city": "Sivas",
+    "country": "TR",
+    "latitude": 39.813801,
+    "longitude": 36.9035,
     "eventIds": []
   },
   {
@@ -38410,16 +38430,6 @@
     "eventIds": []
   },
   {
-    "id": "airport-vtz",
-    "iata": "VTZ",
-    "name": "Visakhapatnam International Airport",
-    "city": "Visakhapatnam",
-    "country": "IN",
-    "latitude": 17.723506,
-    "longitude": 83.227729,
-    "eventIds": []
-  },
-  {
     "id": "airport-zer",
     "iata": "ZER",
     "name": "Ziro Airport",
@@ -38802,7 +38812,7 @@
   {
     "id": "airport-sxr",
     "iata": "SXR",
-    "name": "Sheikh ul Alam International Airport",
+    "name": "Srinagar International Airport",
     "city": "Srinagar",
     "country": "IN",
     "latitude": 33.987099,
@@ -39247,6 +39257,16 @@
     "country": "IN",
     "latitude": 8.481889,
     "longitude": 76.920029,
+    "eventIds": []
+  },
+  {
+    "id": "airport-vtz",
+    "iata": "VTZ",
+    "name": "Alluri Sitarama Raju International Airport (Vizag)",
+    "city": "Visakhapatnam",
+    "country": "IN",
+    "latitude": 17.971512,
+    "longitude": 83.503617,
     "eventIds": []
   },
   {
@@ -40245,8 +40265,8 @@
     "name": "Toraja Airport",
     "city": "Toraja",
     "country": "ID",
-    "latitude": -3.185833,
-    "longitude": 119.91775,
+    "latitude": -3.184359,
+    "longitude": 119.919104,
     "eventIds": []
   },
   {
