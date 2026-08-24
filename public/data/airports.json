@@ -16890,8 +16890,8 @@
     "eventIds": []
   },
   {
-    "id": "airport-pbi",
-    "iata": "PBI",
+    "id": "airport-djt",
+    "iata": "DJT",
     "name": "President Donald J. Trump International Airport",
     "city": "West Palm Beach",
     "country": "US",
@@ -34965,8 +34965,8 @@
     "name": "Eugenio Maria De Hostos Airport",
     "city": "Mayaguez",
     "country": "PR",
-    "latitude": 18.255699157714844,
-    "longitude": -67.14849853515625,
+    "latitude": 18.255699,
+    "longitude": -67.148499,
     "eventIds": []
   },
   {
@@ -36025,8 +36025,8 @@
     "name": "Mariupol International Airport",
     "city": "Mariupol",
     "country": "UA",
-    "latitude": 47.07609939575195,
-    "longitude": 37.44960021972656,
+    "latitude": 47.076099,
+    "longitude": 37.4496,
     "eventIds": []
   },
   {
@@ -36065,8 +36065,8 @@
     "name": "Kryvyi Rih International Airport",
     "city": "Kryvyi Rih",
     "country": "UA",
-    "latitude": 48.04330062866211,
-    "longitude": 33.209999084472656,
+    "latitude": 48.043301,
+    "longitude": 33.209999,
     "eventIds": []
   },
   {
@@ -36100,6 +36100,16 @@
     "eventIds": []
   },
   {
+    "id": "airport-plv",
+    "iata": "PLV",
+    "name": "Suprunovka Airport",
+    "city": "Poltava",
+    "country": "UA",
+    "latitude": 49.5686,
+    "longitude": 34.397202,
+    "eventIds": []
+  },
+  {
     "id": "airport-ckc",
     "iata": "CKC",
     "name": "Cherkasy International Airport",
@@ -36107,6 +36117,26 @@
     "country": "UA",
     "latitude": 49.4156,
     "longitude": 31.9953,
+    "eventIds": []
+  },
+  {
+    "id": "airport-iev",
+    "iata": "IEV",
+    "name": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
+    "city": "Kyiv",
+    "country": "UA",
+    "latitude": 50.40194,
+    "longitude": 30.45194,
+    "eventIds": []
+  },
+  {
+    "id": "airport-ztr",
+    "iata": "ZTR",
+    "name": "Zhytomyr Airport",
+    "city": "Zhytomyr",
+    "country": "UA",
+    "latitude": 50.270556,
+    "longitude": 28.738611,
     "eventIds": []
   },
   {
@@ -36125,8 +36155,8 @@
     "name": "Ivano-Frankivsk International Airport",
     "city": "Ivano-Frankivsk",
     "country": "UA",
-    "latitude": 48.88420104980469,
-    "longitude": 24.686100006103516,
+    "latitude": 48.884201,
+    "longitude": 24.6861,
     "eventIds": []
   },
   {
@@ -36145,8 +36175,8 @@
     "name": "Chernivtsi International Airport",
     "city": "Chernivtsi",
     "country": "UA",
-    "latitude": 48.259300231933594,
-    "longitude": 25.98080062866211,
+    "latitude": 48.2593,
+    "longitude": 25.980801,
     "eventIds": []
   },
   {
@@ -36155,8 +36185,8 @@
     "name": "Rivne International Airport",
     "city": "Rivne",
     "country": "UA",
-    "latitude": 50.60710144042969,
-    "longitude": 26.141599655151367,
+    "latitude": 50.607101,
+    "longitude": 26.1416,
     "eventIds": []
   },
   {
@@ -36177,6 +36207,16 @@
     "country": "UA",
     "latitude": 46.6758,
     "longitude": 32.506401,
+    "eventIds": []
+  },
+  {
+    "id": "airport-nlv",
+    "iata": "NLV",
+    "name": "Mykolaiv International Airport [CLOSED]",
+    "city": "Mykolaiv",
+    "country": "UA",
+    "latitude": 47.057899,
+    "longitude": 31.9198,
     "eventIds": []
   },
   {
@@ -36735,8 +36775,8 @@
     "name": "Taganrog Yuzhny Airport",
     "city": "Taganrog",
     "country": "RU",
-    "latitude": 47.1983333,
-    "longitude": 38.8491667,
+    "latitude": 47.198333,
+    "longitude": 38.849167,
     "eventIds": []
   },
   {
@@ -37355,8 +37395,8 @@
     "name": "Belgorod International Airport",
     "city": "Belgorod",
     "country": "RU",
-    "latitude": 50.643798828125,
-    "longitude": 36.5900993347168,
+    "latitude": 50.643799,
+    "longitude": 36.590099,
     "eventIds": []
   },
   {
@@ -37365,8 +37405,8 @@
     "name": "Kursk East Airport",
     "city": "Kursk",
     "country": "RU",
-    "latitude": 51.7505989074707,
-    "longitude": 36.29560089111328,
+    "latitude": 51.750599,
+    "longitude": 36.295601,
     "eventIds": []
   },
   {
@@ -37375,8 +37415,8 @@
     "name": "Lipetsk Airport",
     "city": "Lipetsk",
     "country": "RU",
-    "latitude": 52.70280075073242,
-    "longitude": 39.53779983520508,
+    "latitude": 52.702801,
+    "longitude": 39.5378,
     "eventIds": []
   },
   {
