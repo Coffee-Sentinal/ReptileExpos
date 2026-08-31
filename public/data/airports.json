@@ -14093,10 +14093,10 @@
     "id": "airport-grf",
     "iata": "GRF",
     "name": "Gray Army Air Field",
-    "city": "Fort Lewis/Tacoma",
+    "city": "Joint Base Lewis McChord",
     "country": "US",
-    "latitude": 47.07920074,
-    "longitude": -122.5810013,
+    "latitude": 47.079201,
+    "longitude": -122.581001,
     "eventIds": []
   },
   {
@@ -17682,7 +17682,7 @@
   {
     "id": "airport-mqt",
     "iata": "MQT",
-    "name": "Marquette/Sawyer International Airport",
+    "name": "Marquette Sawyer Regional Airport",
     "city": "Gwinn",
     "country": "US",
     "latitude": 46.351498,
@@ -22270,6 +22270,16 @@
     "eventIds": []
   },
   {
+    "id": "airport-mzh",
+    "iata": "MZH",
+    "name": "Amasya Merzifon Airport",
+    "city": "Amasya",
+    "country": "TR",
+    "latitude": 40.829399,
+    "longitude": 35.521999,
+    "eventIds": []
+  },
+  {
     "id": "airport-vas",
     "iata": "VAS",
     "name": "Sivas Nuri Demira\u011f Airport",
@@ -22470,6 +22480,16 @@
     "eventIds": []
   },
   {
+    "id": "airport-kzr",
+    "iata": "KZR",
+    "name": "Zafer Airport",
+    "city": "Alt\u0131nta\u015f",
+    "country": "TR",
+    "latitude": 39.111107,
+    "longitude": 30.130405,
+    "eventIds": []
+  },
+  {
     "id": "airport-ezs",
     "iata": "EZS",
     "name": "Elaz\u0131\u011f Airport",
@@ -22647,6 +22667,16 @@
     "country": "TR",
     "latitude": 39.976627,
     "longitude": 43.876648,
+    "eventIds": []
+  },
+  {
+    "id": "airport-bgg",
+    "iata": "BGG",
+    "name": "Bing\u00f6l Airport",
+    "city": "Bing\u00f6l",
+    "country": "TR",
+    "latitude": 38.860131,
+    "longitude": 40.594489,
     "eventIds": []
   },
   {
@@ -31712,7 +31742,7 @@
   {
     "id": "airport-gig",
     "iata": "GIG",
-    "name": "Rio Gale\u00e3o \u2013 Tom Jobim International Airport",
+    "name": "Rio de Janeiro Gale\u00e3o \u2013 Tom Jobim International Airport",
     "city": "Rio De Janeiro",
     "country": "BR",
     "latitude": -22.809999,
@@ -32867,6 +32897,16 @@
     "country": "BR",
     "latitude": -12.200694,
     "longitude": -38.906164,
+    "eventIds": []
+  },
+  {
+    "id": "airport-gvx",
+    "iata": "GVX",
+    "name": "G\u00e4vle\u2013Sandviken Airport",
+    "city": "Sandviken",
+    "country": "SE",
+    "latitude": 60.594444,
+    "longitude": 16.951111,
     "eventIds": []
   },
   {
@@ -36275,8 +36315,8 @@
     "name": "Amderma Airport",
     "city": "Amderma",
     "country": "RU",
-    "latitude": 69.76329803466797,
-    "longitude": 61.556400299072266,
+    "latitude": 69.763712,
+    "longitude": 61.556711,
     "eventIds": []
   },
   {
