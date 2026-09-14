@@ -1480,16 +1480,6 @@
     "eventIds": []
   },
   {
-    "id": "airport-yjt",
-    "iata": "YJT",
-    "name": "Stephenville Dymond International Airport",
-    "city": "Stephenville",
-    "country": "CA",
-    "latitude": 48.54339,
-    "longitude": -58.552892,
-    "eventIds": []
-  },
-  {
     "id": "airport-yka",
     "iata": "YKA",
     "name": "Kamloops John Moose Fulton Field Regional Airport",
@@ -16643,7 +16633,7 @@
     "id": "airport-ono",
     "iata": "ONO",
     "name": "Ontario Municipal Airport",
-    "city": "Oregon",
+    "city": "Ontario",
     "country": "US",
     "latitude": 44.0198,
     "longitude": -117.013289,
@@ -39965,8 +39955,8 @@
     "name": "Phu Bai International Airport",
     "city": "Hu\u1ebf",
     "country": "VN",
-    "latitude": 16.400628,
-    "longitude": 107.703094,
+    "latitude": 16.400581,
+    "longitude": 107.704094,
     "eventIds": []
   },
   {
