@@ -31580,16 +31580,6 @@
     "eventIds": []
   },
   {
-    "id": "airport-qns",
-    "iata": "QNS",
-    "name": "Canoas Air Force Base",
-    "city": "Porto Alegre",
-    "country": "BR",
-    "latitude": -29.945928,
-    "longitude": -51.144413,
-    "eventIds": []
-  },
-  {
     "id": "airport-caw",
     "iata": "CAW",
     "name": "Bartolomeu Lisandro Airport",
