@@ -5263,7 +5263,7 @@
     "id": "airport-iom",
     "iata": "IOM",
     "name": "Isle of Man Airport",
-    "city": "Castletown",
+    "city": "Castletown, Rushen",
     "country": "IM",
     "latitude": 54.083081,
     "longitude": -4.623871,
@@ -5353,7 +5353,7 @@
     "id": "airport-inv",
     "iata": "INV",
     "name": "Inverness Airport",
-    "city": "Inverness",
+    "city": "Inverness, Highland",
     "country": "GB",
     "latitude": 57.5425,
     "longitude": -4.0475,
@@ -35755,8 +35755,8 @@
     "name": "Tiksi Airport",
     "city": "Tiksi",
     "country": "RU",
-    "latitude": 71.697700500488,
-    "longitude": 128.90299987793,
+    "latitude": 71.697701,
+    "longitude": 128.903,
     "eventIds": []
   },
   {
@@ -37385,8 +37385,8 @@
     "name": "Sheremetyevo International Airport",
     "city": "Moscow",
     "country": "RU",
-    "latitude": 55.976858,
-    "longitude": 37.41121,
+    "latitude": 55.977486,
+    "longitude": 37.386677,
     "eventIds": []
   },
   {
@@ -37485,8 +37485,8 @@
     "name": "Inta Airport",
     "city": "Inta",
     "country": "RU",
-    "latitude": 66.053372,
-    "longitude": 60.105786,
+    "latitude": 66.055568,
+    "longitude": 60.11088,
     "eventIds": []
   },
   {
