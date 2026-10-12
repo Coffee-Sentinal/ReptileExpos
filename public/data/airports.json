@@ -7915,8 +7915,8 @@
     "name": "Sir Charles Gaetan Duval Airport",
     "city": "Port Mathurin",
     "country": "MU",
-    "latitude": -19.756696,
-    "longitude": 63.359326,
+    "latitude": -19.757668,
+    "longitude": 63.36103,
     "eventIds": []
   },
   {
@@ -19415,8 +19415,8 @@
     "name": "M\u00e1laga-Costa del Sol Airport",
     "city": "M\u00e1laga",
     "country": "ES",
-    "latitude": 36.6749,
-    "longitude": -4.49911,
+    "latitude": 36.678234,
+    "longitude": -4.500208,
     "eventIds": []
   },
   {
@@ -33072,11 +33072,11 @@
   {
     "id": "airport-ayo",
     "iata": "AYO",
-    "name": "Aeropuerto Nacional Juan de Ayolas",
+    "name": "Juan de Ayolas National Airport",
     "city": "Ayolas",
     "country": "PY",
-    "latitude": -27.378379,
-    "longitude": -56.856791,
+    "latitude": -27.37052,
+    "longitude": -56.854052,
     "eventIds": []
   },
   {
@@ -33122,17 +33122,17 @@
   {
     "id": "airport-pil",
     "iata": "PIL",
-    "name": "Aer\u00f3dromo Don Carlos Miguel Gimenez",
+    "name": "Don Carlos Miguel Gimenez Airport",
     "city": "Pilar",
     "country": "PY",
-    "latitude": -26.881981,
-    "longitude": -58.319067,
+    "latitude": -26.882079,
+    "longitude": -58.318181,
     "eventIds": []
   },
   {
     "id": "airport-pjc",
     "iata": "PJC",
-    "name": "Aeropuerto Nacional Dr. Augusto Roberto Fuster",
+    "name": "Dr. Augusto Roberto Fuster International Airport",
     "city": "Pedro Juan Caballero",
     "country": "PY",
     "latitude": -22.641427,
@@ -38932,7 +38932,7 @@
   {
     "id": "airport-vmi",
     "iata": "VMI",
-    "name": "Aeropuerto Nacional Doctor Juan Plate",
+    "name": "Doctor Juan Plate National Airport",
     "city": "Puerto Vallemi",
     "country": "PY",
     "latitude": -22.159371,
