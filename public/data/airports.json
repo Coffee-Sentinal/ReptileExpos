@@ -20732,11 +20732,11 @@
   {
     "id": "airport-efl",
     "iata": "EFL",
-    "name": "Kefallinia Airport",
+    "name": "Kefalonia International Airport \"Anna Pollatou\"",
     "city": "Kefallinia Island",
     "country": "GR",
-    "latitude": 38.12009811401367,
-    "longitude": 20.500499725341797,
+    "latitude": 38.120098,
+    "longitude": 20.5005,
     "eventIds": []
   },
   {
@@ -20912,7 +20912,7 @@
   {
     "id": "airport-zth",
     "iata": "ZTH",
-    "name": "Zakynthos International Airport Dionysios Solomos",
+    "name": "Zakynthos International Airport \"Dionysios Solomos\"",
     "city": "Zakynthos",
     "country": "GR",
     "latitude": 37.7509,
@@ -33105,8 +33105,8 @@
     "name": "Guaran\u00ed International Airport",
     "city": "Ciudad del Este",
     "country": "PY",
-    "latitude": -25.457186,
-    "longitude": -54.839544,
+    "latitude": -25.4555,
+    "longitude": -54.843601,
     "eventIds": []
   },
   {
