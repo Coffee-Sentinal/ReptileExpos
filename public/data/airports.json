@@ -40430,6 +40430,16 @@
     "eventIds": []
   },
   {
+    "id": "airport-ivd",
+    "iata": "IVD",
+    "name": "Nusantara International Airport",
+    "city": "Nusantara",
+    "country": "ID",
+    "latitude": -1.16053,
+    "longitude": 116.71193,
+    "eventIds": []
+  },
+  {
     "id": "airport-bpn",
     "iata": "BPN",
     "name": "Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
