@@ -355,8 +355,8 @@
     "name": "Ilulissat Airport",
     "city": "Ilulissat",
     "country": "GL",
-    "latitude": 69.243202,
-    "longitude": -51.057098,
+    "latitude": 69.245641,
+    "longitude": -51.052243,
     "eventIds": []
   },
   {
@@ -7255,8 +7255,8 @@
     "name": "Harrismith Airport",
     "city": "Harrismith",
     "country": "ZA",
-    "latitude": -28.2351,
-    "longitude": 29.106199,
+    "latitude": -28.234936,
+    "longitude": 29.106361,
     "eventIds": []
   },
   {
@@ -7345,18 +7345,18 @@
     "name": "King Shaka International Airport",
     "city": "Durban",
     "country": "ZA",
-    "latitude": -29.6144444444,
-    "longitude": 31.1197222222,
+    "latitude": -29.613381,
+    "longitude": 31.117942,
     "eventIds": []
   },
   {
     "id": "airport-sdb",
     "iata": "SDB",
-    "name": "Langebaanweg Airport",
+    "name": "Langebaanweg Air Force Base",
     "city": "Langebaanweg",
     "country": "ZA",
-    "latitude": -32.968898773199996,
-    "longitude": 18.1602993011,
+    "latitude": -32.968899,
+    "longitude": 18.160299,
     "eventIds": []
   },
   {
@@ -7392,11 +7392,11 @@
   {
     "id": "airport-mbd",
     "iata": "MBD",
-    "name": "Mmabatho International Airport",
+    "name": "George Dick Montshioa Airport",
     "city": "Mafeking",
     "country": "ZA",
-    "latitude": -25.798400878900004,
-    "longitude": 25.548000335699996,
+    "latitude": -25.798401,
+    "longitude": 25.548,
     "eventIds": []
   },
   {
@@ -7425,8 +7425,8 @@
     "name": "Oudtshoorn Airport",
     "city": "Oudtshoorn",
     "country": "ZA",
-    "latitude": -33.6069984436,
-    "longitude": 22.188999176,
+    "latitude": -33.606998,
+    "longitude": 22.188999,
     "eventIds": []
   },
   {
@@ -7595,8 +7595,8 @@
     "name": "Tzaneen Airport",
     "city": "Tzaneen",
     "country": "ZA",
-    "latitude": -23.8244,
-    "longitude": 30.3293,
+    "latitude": -23.822341,
+    "longitude": 30.327244,
     "eventIds": []
   },
   {
