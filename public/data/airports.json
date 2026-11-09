@@ -24080,6 +24080,16 @@
     "eventIds": []
   },
   {
+    "id": "airport-blb",
+    "iata": "BLB",
+    "name": "Panam\u00e1 Pac\u00edfico International Airport",
+    "city": "Panam\u00e1 City",
+    "country": "PA",
+    "latitude": 8.91479,
+    "longitude": -79.599602,
+    "eventIds": []
+  },
+  {
     "id": "airport-pac",
     "iata": "PAC",
     "name": "Marcos A. Gelabert International Airport",
@@ -29932,7 +29942,7 @@
   {
     "id": "airport-cjj",
     "iata": "CJJ",
-    "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+    "name": "Cheongju International Airport",
     "city": "Cheongju",
     "country": "KR",
     "latitude": 36.71556,
@@ -43647,6 +43657,16 @@
     "country": "CN",
     "latitude": 24.804344,
     "longitude": 107.710819,
+    "eventIds": []
+  },
+  {
+    "id": "airport-hny",
+    "iata": "HNY",
+    "name": "Hengyang Nanyue Airport",
+    "city": "Hengyang",
+    "country": "CN",
+    "latitude": 26.72208,
+    "longitude": 112.617958,
     "eventIds": []
   },
   {
