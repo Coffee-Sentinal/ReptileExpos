@@ -2732,11 +2732,11 @@
   {
     "id": "airport-yyf",
     "iata": "YYF",
-    "name": "Penticton Airport",
+    "name": "Penticton Regional Airport",
     "city": "Penticton",
     "country": "CA",
-    "latitude": 49.46310043334961,
-    "longitude": -119.60199737548828,
+    "latitude": 49.4631,
+    "longitude": -119.601997,
     "eventIds": []
   },
   {
@@ -32665,8 +32665,8 @@
     "name": "Comodoro Arturo Merino Ben\u00edtez International Airport",
     "city": "Santiago",
     "country": "CL",
-    "latitude": -33.393001556396484,
-    "longitude": -70.78579711914062,
+    "latitude": -33.390252,
+    "longitude": -70.794697,
     "eventIds": []
   },
   {
